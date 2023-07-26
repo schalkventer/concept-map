@@ -2,5 +2,4 @@
 
 **Exploring the relationships between various concepts and technologies.**
 
-![image](https://github.com/schalkventer/concept-map/assets/14258328/edfbdc6e-17b4-4c5b-8b14-ce279cd4432f)
-
+![image](https://github.com/schalkventer/concept-map/assets/14258328/20d893f1-ac3e-44f1-a85b-bd27a423ca07)
