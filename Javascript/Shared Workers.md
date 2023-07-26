@@ -1,0 +1,1 @@
+3. [[Shared Workers]] - These are workers that can be utilized by multiple scripts running in the same origin, but in different tabs, windows, or iframes

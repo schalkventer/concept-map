@@ -1,0 +1,1 @@
+. [[Children Types]]: Conditional rendering can also be based on the type of the children passed to a component

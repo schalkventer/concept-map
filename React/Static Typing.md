@@ -1,0 +1,1 @@
+[[Static Typing]]: The process of annotating variables, functions, objects and components with their types

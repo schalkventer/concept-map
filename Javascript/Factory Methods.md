@@ -1,0 +1,1 @@
+11. [[Factory Methods]] - A factory method is a method in a class that creates and returns an object of that class

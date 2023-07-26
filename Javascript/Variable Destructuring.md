@@ -1,0 +1,1 @@
+18. [[Variable Destructuring]] - Destructuring in JavaScript provides an efficient way to extract properties from objects and elements from arrays into distinct variables

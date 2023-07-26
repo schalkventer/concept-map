@@ -1,0 +1,1 @@
+20. [[Map, Filter, and Reduce]] - Array methods that allow for functional programming styles in JavaScript

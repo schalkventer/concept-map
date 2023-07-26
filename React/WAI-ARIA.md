@@ -1,0 +1,1 @@
+WAI-ARIA: Web Accessibility Initiative - Accessible Rich Internet Applications (WAI-ARIA) is a technical specification by W3C that provides a framework to improve the accessibility and interoperability of web content and applications.

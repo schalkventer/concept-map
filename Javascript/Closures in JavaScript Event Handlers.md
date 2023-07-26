@@ -1,0 +1,1 @@
+9. [[Closures in JavaScript Event Handlers]] - Closures are used in event handlers to access variables from an outer scope

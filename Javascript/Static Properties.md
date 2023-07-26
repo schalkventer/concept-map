@@ -1,0 +1,1 @@
+11. [[Static Properties]] - Static properties (class properties) are properties of the class itself, not of instances of the class

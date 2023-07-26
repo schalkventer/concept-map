@@ -1,0 +1,1 @@
+13. [[Context isolation]]: Context allows you to manage state in an isolated manner, ensuring that unrelated parts of the application don't inadvertently affect each other

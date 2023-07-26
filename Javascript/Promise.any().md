@@ -1,0 +1,1 @@
+11. [[Promise.any()]] - The `Promise.any()` method takes an iterable of promises and returns the first promise that fulfills, or if all promises are rejected, a new AggregateError is thrown.

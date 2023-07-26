@@ -1,0 +1,1 @@
+Context.Consumer: React components that subscribe to context changes. It lets you subscribe to a context within a function component

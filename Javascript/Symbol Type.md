@@ -1,0 +1,1 @@
+24. [[Symbol Type]] - A new primitive type introduced in ES6 for creating unique identifiers

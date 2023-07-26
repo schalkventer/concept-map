@@ -1,0 +1,1 @@
+17. [[Creating and Removing Nodes]] - The DOM API includes methods for creating new nodes, inserting them into the DOM tree, and removing existing nodes

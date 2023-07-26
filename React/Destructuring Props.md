@@ -1,0 +1,1 @@
+ [[Destructuring Props]]: A JavaScript feature that allows you to extract multiple properties from an object more concisely in your component's arguments

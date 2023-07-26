@@ -1,0 +1,1 @@
+114. [[The History API]] - Allows manipulation of the browser session history, that is the pages visited in the tab or frame that the current page is loaded in

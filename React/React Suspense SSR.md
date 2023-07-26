@@ -1,0 +1,1 @@
+. [[React Suspense SSR]]: Suspense support for Server Side Rendering (SSR), allowing the server to send fully rendered pages to the client which can then be hydrated

@@ -1,0 +1,1 @@
+9. [[Variable Naming Conventions]] - Variables in JavaScript follow certain naming conventions like they can't start with a number, can't include spaces or special characters except $ and

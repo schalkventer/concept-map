@@ -1,0 +1,1 @@
+15. [[Holes in Arrays]] - Array holes are elements that are missing from the array (e.g., `let a = [1,,3]`). They are counted in the length of the array, but are `undefined` if accessed

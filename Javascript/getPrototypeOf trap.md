@@ -1,0 +1,1 @@
+11. [[getPrototypeOf trap]] - The getPrototypeOf trap can intercept calls to `Object.getPrototypeOf`. It's a method that serves to get the prototype of the object

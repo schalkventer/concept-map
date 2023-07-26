@@ -1,0 +1,1 @@
+14. [[Progressive Web Apps (PWAs)]] - PWAs are a type of SPA that are designed to work offline and provide a native app-like experience

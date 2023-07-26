@@ -1,0 +1,1 @@
+10. [[Immediately Invoked Function Expressions (IIFEs)]] - IIFEs are functions that are executed as soon as they are defined

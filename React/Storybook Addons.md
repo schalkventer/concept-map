@@ -1,0 +1,1 @@
+torybook Addons]]: Extend the core functionality of Storybook. They can be used to add a panel to Storybook's UI, interact with the Canvas or the Manager, or add CLI functionalities

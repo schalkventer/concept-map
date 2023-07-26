@@ -1,0 +1,1 @@
+12. [[textContent]] - This property can be used to get or replace the text content of an element

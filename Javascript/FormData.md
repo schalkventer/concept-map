@@ -1,0 +1,1 @@
+19. [[FormData]] - The FormData API provides a way to easily construct a set of key/value pairs representing form fields and their values, which can then be sent using the XMLHttpRequest.send() method

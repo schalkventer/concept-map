@@ -1,0 +1,1 @@
+4. [[Worker Scope]] - A Worker has its own global scope, separate from the main thread's scope, which is often called "worker scope" or "worker global scope

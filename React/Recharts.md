@@ -1,0 +1,1 @@
+Recharts: A charting library built with React and D3 that allows developers to create charts with good performance and declarative charts

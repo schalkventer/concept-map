@@ -1,0 +1,1 @@
+15. [[Passing Props to Native HTML Elements]]: In addition to custom components, props can also be passed to native HTML elements like `<div>`, `<button>`, etc.

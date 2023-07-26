@@ -1,0 +1,1 @@
+14. [[window.localStorage]] - This property allows web applications to store data persistently in a web browser

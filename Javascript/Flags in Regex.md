@@ -1,0 +1,1 @@
+20. [[Flags in Regex]] - Flags are used to change the searching behavior globally (`g`), case insensitively (`i`), multi-line (`m`), dot

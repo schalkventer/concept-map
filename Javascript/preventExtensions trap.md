@@ -1,0 +1,1 @@
+14. [[preventExtensions trap]] - The preventExtensions trap can intercept calls to `Object.preventExtensions`. It's a method that makes an object non-extensible.

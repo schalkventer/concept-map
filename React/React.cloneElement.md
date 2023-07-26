@@ -1,0 +1,1 @@
+React.cloneElement: A helper method in React that allows you to clone an element and pass new props to it

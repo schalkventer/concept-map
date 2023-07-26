@@ -1,0 +1,1 @@
+Mocking in Tests: The concept of replacing real component behavior with a stand-in for the purposes of testing, often used in React with Jest

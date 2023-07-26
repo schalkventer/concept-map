@@ -1,0 +1,1 @@
+7. [[Arrays and Loops]] - Arrays are often used with loops to perform an operation on each element

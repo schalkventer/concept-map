@@ -1,0 +1,1 @@
+14. [[Component Filtering]]: A feature in React DevTools Profiler that allows filtering out components that took less than a certain amount of time to render

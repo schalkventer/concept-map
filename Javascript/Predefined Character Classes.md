@@ -1,0 +1,1 @@
+16. [[Predefined Character Classes]] - `\d` (any digit), `\D` (any non-digit), `\w` (any alphanumeric character), `\W` (any non-alphanumeric character), `\s` (any whitespace), `\S` (any non-whitespace) are predefined character classes

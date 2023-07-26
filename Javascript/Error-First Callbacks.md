@@ -1,0 +1,1 @@
+5. [[Error-First Callbacks]] - In Node.js, callbacks are often used to manage errors. The first argument to the callback is reserved for an error object. If an error occurred, it will be passed as the first parameter to the callback function

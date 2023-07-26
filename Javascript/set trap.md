@@ -1,0 +1,1 @@
+6. [[set trap]] - The set trap can intercept property assignments. It's a method that serves to set the value of a property

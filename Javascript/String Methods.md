@@ -1,0 +1,1 @@
+5. [[String Methods]] - JavaScript strings also have built-in methods, including `charAt()`, `concat()`, `indexOf()`, `substring()`, `slice()`, `trim()`, `replace()`, and others

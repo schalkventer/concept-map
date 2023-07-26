@@ -1,0 +1,1 @@
+ [[tsconfig.json]]: The configuration file for TypeScript compiler options in a project.

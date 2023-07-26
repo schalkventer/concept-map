@@ -1,0 +1,1 @@
+12. [[Null and Local Storage]] - When using Web Storage API (localStorage and sessionStorage), you can store null values, but they'll be retrieved as the string "null"

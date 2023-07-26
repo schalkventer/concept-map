@@ -1,0 +1,1 @@
+. [[React-Select]]: A flexible and customizable Select Input control for ReactJS with multiselect, autocomplete and ajax support

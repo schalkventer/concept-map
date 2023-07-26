@@ -1,0 +1,1 @@
+14. [[Variable Typing in JavaScript]] - JavaScript is dynamically typed, meaning a variable can hold values of any type without specifying a type during declaration

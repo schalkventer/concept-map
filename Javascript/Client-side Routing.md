@@ -1,0 +1,1 @@
+3. [[Client-side Routing]] - Unlike traditional web apps, SPAs use client-side routing. This means the necessary code (HTML, CSS, JavaScript) is retrieved with a single page load, or dynamically loaded as needed, giving a smoother user experience

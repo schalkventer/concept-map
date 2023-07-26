@@ -1,0 +1,1 @@
+4. [[Add to Home Screen (A2HS)]] - A feature of PWAs that allows users to 'install' the web app on their device's home screen, making it available for offline use and launchable like a native app.

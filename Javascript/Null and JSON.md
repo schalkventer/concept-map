@@ -1,0 +1,1 @@
+11. [[Null and JSON]] - When encoding JavaScript objects with JSON.stringify, properties with value null are included in the resulting JSON string

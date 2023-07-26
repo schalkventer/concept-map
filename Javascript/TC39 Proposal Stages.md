@@ -1,0 +1,1 @@
+3. [[TC39 Proposal Stages]] - TC39 has a 5 stage process (0-4) for evolving the ECMAScript specification, from inception to acceptance

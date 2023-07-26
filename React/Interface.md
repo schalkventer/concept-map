@@ -1,0 +1,1 @@
+5. [[Interface]]: A TypeScript structure that defines the contract for classes or objects. It's often used in React to type props

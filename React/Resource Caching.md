@@ -1,0 +1,1 @@
+6. [[Resource Caching]]: In the context of Suspense, it often refers to the ability to remember and reuse data that was fetched earlier

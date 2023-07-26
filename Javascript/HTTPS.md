@@ -1,0 +1,1 @@
+2. [[HTTPS]] - HTTPS (HTTP Secure) is an extension of HTTP. It's used for secure communication over a computer network, and is widely used on the internet

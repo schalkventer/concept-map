@@ -1,0 +1,1 @@
+3. [[Inline If-Else with Conditional Operator ]](?:): This is the equivalent of the traditional if-else statement within JSX, used when more than one condition has to be checked before rendering a component

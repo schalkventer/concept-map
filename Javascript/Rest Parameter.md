@@ -1,0 +1,1 @@
+14. [[Rest Parameter]] - Syntax that allows us to represent an indefinite number of arguments as an array

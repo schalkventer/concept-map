@@ -1,0 +1,1 @@
+16. [[Specification Text]] - Part of the process for a proposal is to provide an "English description" of the language feature, which is used to specify exactly how JavaScript engines should implement it

@@ -1,0 +1,1 @@
+12. [[Generator Functions]] - Generators are special kinds of functions that can be paused and resumed, allowing other code to run during the "pauses

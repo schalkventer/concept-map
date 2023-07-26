@@ -1,0 +1,1 @@
+. [[Memo]]: A higher order component that you wrap around a functional component to memoize (or remember) the rendered output and prevent unnecessary re-rendering

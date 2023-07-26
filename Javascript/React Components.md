@@ -1,0 +1,1 @@
+14. [[React Components]] vs. React Elements: While components are the functions or classes that return JSX elements, the elements themselves are objects that describe what should be rendered on the screen

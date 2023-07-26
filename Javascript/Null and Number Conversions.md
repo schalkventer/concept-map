@@ -1,0 +1,1 @@
+9. [[Null and Number Conversions]] - If null is coerced into a number, it becomes 0

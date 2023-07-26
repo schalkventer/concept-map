@@ -1,0 +1,1 @@
+6. [[Node Properties]] - Every node in the DOM has certain properties. These properties can be used to access and change the characteristics of the DOM nodes

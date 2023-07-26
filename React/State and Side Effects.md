@@ -1,0 +1,1 @@
+18. [[State and Side Effects]]: Side effects in a React component (like data fetching, subscriptions, or manually changing the DOM) can be performed based on the state of a component

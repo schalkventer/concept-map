@@ -1,0 +1,1 @@
+19. [[Function.prototype.bind()]] - The `bind()` method creates a new function that, when called, has `this` set to the provided value

@@ -1,0 +1,1 @@
+16. [[REST]] - REST (Representational State Transfer) is a standard architectural style for designing networked applications. It uses a stateless, client-server communication model, and HTTP specifically for transferring data

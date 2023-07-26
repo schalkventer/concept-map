@@ -1,0 +1,1 @@
+19. [[Iteration Methods]] - JavaScript's Array iteration methods, such as `.map()`, `.filter()`, and `.reduce()`, take callback functions as arguments

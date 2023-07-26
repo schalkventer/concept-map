@@ -1,0 +1,1 @@
+. Atomic Design in React: A methodology for creating design systems based on chemical elements, often used in component-based libraries or frameworks like React

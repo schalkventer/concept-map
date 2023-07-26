@@ -1,0 +1,1 @@
+[[Recursion]] - When a function solves a problem by solving smaller instances of the same problem.

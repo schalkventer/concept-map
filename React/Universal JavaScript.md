@@ -1,0 +1,1 @@
+ [[Universal JavaScript]]: Techniques to run the same code on both the server and the client, often used in React with server side rendering

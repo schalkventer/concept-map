@@ -1,0 +1,1 @@
+Next.js: A framework for server-rendered or statically-exported React apps, that offers features like hybrid static and server rendering, TypeScript support, smart bundling and route pre-fetching.

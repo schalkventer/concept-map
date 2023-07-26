@@ -1,0 +1,1 @@
+14. [[Callback Queue]] - In JavaScript's event-driven programming model, the callback queue (also known as the event queue) is a list of all the callbacks that are ready to be executed. The JavaScript runtime periodically checks this queue and executes the callbacks in order

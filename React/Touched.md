@@ -1,0 +1,1 @@
+4. [[Touched]]: This is an object that Formik uses to keep track of which fields have been visited

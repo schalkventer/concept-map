@@ -1,0 +1,1 @@
+10. [[Object Destructuring]] - Destructuring assignment syntax allows you to unpack properties from objects into distinct variables

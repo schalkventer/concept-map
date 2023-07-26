@@ -1,0 +1,1 @@
+10. [[querySelector]] These methods allow selection of elements using CSS selectors. The former returns the first match while the latter returns all matches in a NodeList.

@@ -1,0 +1,1 @@
+10. [[IndexedDB]] - IndexedDB is a low-level API for client-side storage of significant amounts of structured data, including files/blobs. It's used in PWAs for data persistence

@@ -1,0 +1,1 @@
+15. [[Partial Application of Functions]] - Partial application refers to the process of fixing a number of arguments to a function, producing another function of smaller arity

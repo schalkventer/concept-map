@@ -1,0 +1,1 @@
+5. [[Class Methods]] - Methods are functions defined on the class's prototype. They are shared between all instances of a class

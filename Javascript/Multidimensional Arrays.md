@@ -1,0 +1,1 @@
+2. [[Multidimensional Arrays]] - Multidimensional arrays are arrays within arrays, used to represent complex structures like matrices

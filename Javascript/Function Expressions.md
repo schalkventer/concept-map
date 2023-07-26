@@ -1,0 +1,1 @@
+4. [[Function Expressions]] - A function expression is a function defined inside an expression and can be anonymous

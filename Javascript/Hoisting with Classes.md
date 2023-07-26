@@ -1,0 +1,1 @@
+20. [[Hoisting with Classes]] - Unlike functions, JavaScript classes are not hoisted. This means you need to declare a class before you can instantiate objects from it.

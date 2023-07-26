@@ -1,0 +1,1 @@
+20. [[Comparing Profiling Sessions]]: With the help of React DevTools, developers can record multiple profiling sessions and compare them to identify any potential performance regressions

@@ -1,0 +1,1 @@
+15. [[Performance Optimization]]: CSS-in-JS libraries often include performance optimizations, such as only injecting styles for components that are currently rendered

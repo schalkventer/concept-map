@@ -1,0 +1,1 @@
+TSLint]]: A linter for TypeScript code that can detect potential errors and style issues

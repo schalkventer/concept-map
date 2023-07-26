@@ -1,0 +1,2 @@
+
+20. [[Variable Reassignment]] - Reassigning variables is a common task in JavaScript, but care must be taken when reassigning variables that hold complex data types like objects and arrays, as they are passed by reference

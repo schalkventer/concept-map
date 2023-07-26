@@ -1,0 +1,1 @@
+18. [[Lighthouse]] - Lighthouse is an open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, and more

@@ -1,0 +1,1 @@
+14. [[Closures and Currying in JavaScript]] - Currying functions use closures to hold onto returned function state

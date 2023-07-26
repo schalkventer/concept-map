@@ -1,0 +1,1 @@
+17. [[Cross-Window Communication]] - The window object can be used to enable communication between different windows or iframes, given certain security considerations are met

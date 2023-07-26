@@ -1,0 +1,1 @@
+20. [[Closures and Immediately Invoked Function Expressions (IIFEs)]] - IIFEs can be used to create private variable scope, and any function references returned from the IIFE can maintain access to this private scope, forming a closure.

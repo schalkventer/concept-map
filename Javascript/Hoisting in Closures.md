@@ -1,0 +1,1 @@
+16. [[Hoisting in Closures]] - Closures follow the same hoisting rules as normal functions, potentially leading to unexpected results

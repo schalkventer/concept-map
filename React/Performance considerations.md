@@ -1,0 +1,1 @@
+17. [[Performance considerations]]: Since any context consumer will re-render when the context value changes, it can be important to optimize how context is used to avoid unnecessary re-renders

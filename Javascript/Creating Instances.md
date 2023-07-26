@@ -1,0 +1,1 @@
+. [[Creating Instances]] - An instance of a class can be created using the `new` keyword followed by the class name

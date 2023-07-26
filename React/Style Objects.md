@@ -1,0 +1,1 @@
+2. [[Style Objects]]: In React, CSS can be written as JavaScript objects, where property names are written in camelCase

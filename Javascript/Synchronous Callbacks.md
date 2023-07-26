@@ -1,0 +1,1 @@
+10. [[Synchronous Callbacks]] - While callbacks are often associated with asynchronous operations, they can also be used in synchronous operations. These are executed immediately, before the function that received the callback has completed

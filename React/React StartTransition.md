@@ -1,0 +1,1 @@
+16. [[React StartTransition]]: A function that marks state updates as transitions allowing React to keep the UI responsive

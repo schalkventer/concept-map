@@ -1,0 +1,1 @@
+Readable Font Sizes: The text size should be big enough to read without straining the eyes, and users should be allowed to resize text as needed.

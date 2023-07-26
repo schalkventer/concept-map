@@ -1,0 +1,1 @@
+14. [[Component Lifecycle Methods]]: These methods, such as componentDidMount, shouldComponentUpdate, and getDerivedStateFromProps, can be used for conditional rendering based on lifecycle stages

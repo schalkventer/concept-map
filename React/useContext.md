@@ -1,0 +1,1 @@
+3. [[useContext]]: A built-in hook that allows you to use context without wrapping a component in a Context.Consumer

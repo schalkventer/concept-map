@@ -1,0 +1,1 @@
+. [[Async Methods]] - With the introduction of async functions in ES2017, methods can be defined as asynchronous with the `async` keyword, allowing them to use the `await` keyword within their bodies

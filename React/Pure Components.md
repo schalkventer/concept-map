@@ -1,0 +1,1 @@
+Pure Components: Components that only re-render when their props or state change.

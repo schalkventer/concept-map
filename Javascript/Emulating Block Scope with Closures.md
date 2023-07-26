@@ -1,0 +1,1 @@
+7. [[Emulating Block Scope with Closures]] - Since JavaScript did not traditionally have block scope, developers often used closures to emulate this

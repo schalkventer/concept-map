@@ -1,0 +1,1 @@
+Inline Styles: In React, inline styles are not specified as a string, instead they are specified with an object whose key is the camelCased version of the style name.

@@ -1,0 +1,1 @@
+Roles and Landmarks: Roles and landmarks provide information about what an element is or does, or the larger region of the page that it is part of. They can be assigned directly using ARIA roles

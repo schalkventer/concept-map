@@ -1,0 +1,1 @@
+. [[Global Variables]] - In a web browser, global variables are part of the window object.

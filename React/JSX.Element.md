@@ -1,0 +1,1 @@
+. [[JSX.Element]]: The type that represents a JSX element in TypeScript

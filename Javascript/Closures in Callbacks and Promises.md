@@ -1,0 +1,1 @@
+17. [[Closures in Callbacks and Promises]] - Promises and callbacks often use closures to access state when the asynchronous operation completes

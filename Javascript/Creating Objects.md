@@ -1,0 +1,1 @@
+2. [[Creating Objects]] - Objects can be created using object literals (e.g., `let obj = {}`), the `new Object()` constructor, or `Object.create()`.

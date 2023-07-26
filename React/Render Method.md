@@ -1,0 +1,1 @@
+Render Method]]: A required method in class components that tells React what to render and return

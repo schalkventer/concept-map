@@ -1,0 +1,1 @@
+14. [[Yearly Release Cycle]] - TC39 has a yearly release cycle for ECMAScript standard versions

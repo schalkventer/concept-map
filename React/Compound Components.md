@@ -1,0 +1,1 @@
+Compound Components: An advanced pattern in React which is used when some components are tightly coupled with each other, providing more readable and easier-to-use APIs.

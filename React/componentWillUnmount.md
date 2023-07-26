@@ -1,0 +1,1 @@
+componentWillUnmount]]: A lifecycle method that is called just before the component is destroyed or removed from the DOM

@@ -1,0 +1,1 @@
+React.Children: A utility that deals with the 'props.children' opaque data structure.

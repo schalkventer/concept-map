@@ -1,0 +1,1 @@
+. Captioning and Transcripts: Providing captions for video content and transcripts for audio content helps those with hearing impairments

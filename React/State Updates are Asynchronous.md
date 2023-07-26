@@ -1,0 +1,1 @@
+5. [[State Updates are Asynchronous]]: State updates may be asynchronous, so reading `this.state` immediately after calling `this.setState()` may not return the new value

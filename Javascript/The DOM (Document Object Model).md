@@ -1,0 +1,1 @@
+32. [[The DOM (Document Object Model)]] - The data representation of the objects that comprise the structure and content of a document on the web

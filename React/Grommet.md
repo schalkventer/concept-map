@@ -1,0 +1,1 @@
+Grommet: A React-based framework that provides accessibility, modularity, responsiveness, and themes in a tidy package.

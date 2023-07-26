@@ -1,0 +1,1 @@
+10. [[Lazy Loading]] - Lazy loading is a pattern where you only load what's necessary for the initial page view, which can help performance in an SPA

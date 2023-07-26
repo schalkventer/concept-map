@@ -1,0 +1,1 @@
+17. [[Media Queries]]: Like in regular CSS, CSS-in-JS allows for media queries to adjust styles based on viewport sizes, device capabilities, etc.. 

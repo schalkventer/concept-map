@@ -1,0 +1,1 @@
+15. [[Null and Function Arguments]] - You can pass null as an argument to a function when you want to intentionally indicate the absence of a value

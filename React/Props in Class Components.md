@@ -1,0 +1,1 @@
+7. [[Props in Class Components]]: In class-based components, props must be accessed with `this.props`.

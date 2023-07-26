@@ -1,0 +1,1 @@
+ [[Synthetic Events]]: React wraps the browser’s native event into its own event instance for cross-browser compatibility

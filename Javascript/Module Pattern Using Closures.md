@@ -1,0 +1,1 @@
+13. [[Module Pattern Using Closures]] - The Module Pattern in JavaScript uses closures to create 'private' variables, shielding parts of your code from the global scope

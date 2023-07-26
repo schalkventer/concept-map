@@ -1,0 +1,1 @@
+Accessibility Testing: Regular testing for accessibility compliance should be part of the development process. Tools like Jest, Axe, and React Testing Library can be used for this.

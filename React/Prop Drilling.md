@@ -1,0 +1,1 @@
+9. [[Prop Drilling]]: The process by which you pass data from part of the component tree to another by going through other parts that do not need the data but are merely passing it along

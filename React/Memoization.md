@@ -1,0 +1,1 @@
+ Memoization: In the context of React, memoization is a optimization technique used to speed up rendering of components by storing the results of expensive function calls and reusing them on subsequent calls, often used with the `useMemo` and `useCallback` hooks

@@ -1,0 +1,1 @@
+7. [[Prototype Objects]] - Every JavaScript object has a second JavaScript object (or null, but this is rare) associated with it. This second object is known as a prototype, and the first object inherits properties from the prototype

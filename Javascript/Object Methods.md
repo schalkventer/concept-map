@@ -1,0 +1,1 @@
+6. [[Object Methods]] - Object methods are functions that are associated with an object and typically manipulate the data in the object

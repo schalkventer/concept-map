@@ -1,0 +1,1 @@
+ [[Union Types]]: A type that can be one of several types. Useful for typing components that can accept different types of props

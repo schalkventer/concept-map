@@ -1,0 +1,1 @@
+Higher Order Components (HOCs)]]: A function that takes a component and returns a new component, often used for reusing component logic

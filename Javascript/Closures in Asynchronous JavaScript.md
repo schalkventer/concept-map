@@ -1,0 +1,1 @@
+8. [[Closures in Asynchronous JavaScript]] - Asynchronous callbacks often use closures to access variables outside the immediate function scope

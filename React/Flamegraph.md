@@ -1,0 +1,1 @@
+12. [[Flamegraph]]: A visualization in React DevTools that shows how components are rendering

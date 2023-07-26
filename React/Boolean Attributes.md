@@ -1,0 +1,1 @@
+12. [[Boolean Attributes]]: In JSX, you can specify boolean attributes using a simplified syntax

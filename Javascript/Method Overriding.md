@@ -1,0 +1,1 @@
+15. [[Method Overriding]] - In object-oriented programming, method overriding is a feature that allows a subclass to provide a different implementation of a method that is already provided by its superclass

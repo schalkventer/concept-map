@@ -1,0 +1,1 @@
+15. [[HTMLCollection]] - This is a collection of HTML elements. Some properties and methods return an HTMLCollection, like getElementsByTagName

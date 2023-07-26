@@ -1,0 +1,1 @@
+9. [[Promise]] - Promises are used as an alternative to callbacks to manage asynchronous operations, and can help solve the issue of callback hell. A Promise object represents a value that may not be available yet, but will be resolved at some point in the future

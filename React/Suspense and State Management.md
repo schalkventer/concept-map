@@ -1,0 +1,1 @@
+ [[Suspense and State Management]]: Libraries like Redux or MobX can be used in conjunction with Suspense to handle global state in a Suspense-friendly manner

@@ -1,0 +1,1 @@
+10. [[Closure Lifetime]] - The lifetime of a closure extends beyond the execution of the function that created it, as long as there is a reference to it

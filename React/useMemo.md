@@ -1,0 +1,1 @@
+5. [[useMemo]]: A built-in hook that memoizes expensive computations and only re-computes when certain dependencies change

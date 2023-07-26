@@ -1,0 +1,1 @@
+20. [[State Debugging]]: Tools like React DevTools can be used to inspect a component's state for debugging purposes

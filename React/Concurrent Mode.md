@@ -1,0 +1,1 @@
+Concurrent Mode: A set of new features that help React apps stay responsive and adjust to the user’s device capabilities and network speed.

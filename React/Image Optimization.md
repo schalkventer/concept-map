@@ -1,0 +1,1 @@
+Image Optimization: Techniques for serving optimized images in React applications to improve performance and user experience

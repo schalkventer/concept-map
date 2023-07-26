@@ -1,0 +1,1 @@
+9. [[Interactions]]: The objects representing the 'events' which caused the component to re-render

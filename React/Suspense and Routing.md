@@ -1,0 +1,1 @@
+17. [[Suspense and Routing]]: Suspense can be used with React Router to provide better user experience while navigating between routes

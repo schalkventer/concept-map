@@ -1,0 +1,1 @@
+React.createRef: It's a function in React that lets you access DOM elements or React elements created in the render method

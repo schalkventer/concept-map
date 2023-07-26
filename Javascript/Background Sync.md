@@ -1,0 +1,1 @@
+7. [[Background Sync]] - This feature allows you to defer actions until the user has stable connectivity. This is useful for ensuring that whatever the user wants to send is actually sent

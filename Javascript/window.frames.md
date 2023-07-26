@@ -1,0 +1,1 @@
+18. [[window.frames]] - This property returns an array-like object of all the frames (including iframes) in the current window

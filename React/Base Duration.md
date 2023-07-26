@@ -1,0 +1,1 @@
+6. [[Base Duration]]: Represents the time it would take to render the components being profiled without memoization

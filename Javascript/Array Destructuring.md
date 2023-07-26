@@ -1,0 +1,1 @@
+9. [[Array Destructuring]] - Destructuring in JavaScript allows you to unpack elements from arrays or properties from objects into distinct variables

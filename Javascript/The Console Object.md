@@ -1,0 +1,1 @@
+87. [[The Console Object]] - A built-in JavaScript object that provides access to the browser debugging console

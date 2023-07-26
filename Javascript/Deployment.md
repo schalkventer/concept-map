@@ -1,0 +1,1 @@
+19. [[Deployment]] - Deploying SPAs can require special consideration due to their client-side nature, and can be hosted on traditional web servers or cloud services like AWS S3 or Netlify

@@ -1,0 +1,1 @@
+10. [[Promise.allSettled()]] - The `Promise.allSettled()` method takes an iterable of promises and returns a new Promise that fulfills when all of the passed promises have been either fulfilled or rejected, with an array of objects that describe the outcomes

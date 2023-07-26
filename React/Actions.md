@@ -1,0 +1,1 @@
+[[Actions]]: Help you verify interactions when building UI components in Storybook. They are used to display data received by event handlers in Storybook's UI

@@ -1,0 +1,1 @@
+Updating: The phase in the component lifecycle where the component is being re-rendered as a result of changes either to its props or state.

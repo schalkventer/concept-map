@@ -1,0 +1,1 @@
+1. [[Regular Expression (Regex) Definition]] - Regular expressions are patterns used to match character combinations in strings in JavaScript

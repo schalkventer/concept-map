@@ -1,0 +1,1 @@
+ Strict Mode: A component available in React used to highlight potential problems in an application during development

@@ -1,0 +1,1 @@
+4. [[Accessing Object Properties]] - You can access properties of an object using dot notation (`object.property`) or bracket notation (`object['property']`).

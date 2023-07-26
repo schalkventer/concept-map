@@ -1,0 +1,1 @@
+16. [[Temporal Dead Zone]] - The period between entering scope and being declared where block-scoped variables cannot be accessed

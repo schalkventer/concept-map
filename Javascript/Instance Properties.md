@@ -1,0 +1,1 @@
+. [[Instance Properties]] - Properties added to an object instance are not shared between instances of a class. They should be set inside the constructor method

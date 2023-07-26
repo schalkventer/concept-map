@@ -1,0 +1,1 @@
+46. [[JSON (JavaScript Object Notation)]] - A lightweight data-interchange format that is easy to read and write

@@ -1,0 +1,1 @@
+12. [[HTTP2]] - HTTP/2 is a major revision of the HTTP network protocol used by the World Wide Web, which offers performance improvements over HTTP/1.

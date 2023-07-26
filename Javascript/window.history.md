@@ -1,0 +1,1 @@
+5. [[window.history]] - This object allows access to the browser's session history, allowing you to manipulate the user's navigation history

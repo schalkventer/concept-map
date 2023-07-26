@@ -1,0 +1,1 @@
+14. [[Updating context]]: While not directly part of the API, strategies for updating context values (such as using a state management library or a component's state) are crucial for using context effectively

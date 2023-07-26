@@ -1,0 +1,1 @@
+15. [[Context in class components]]: Though useContext() makes consuming context simpler in function components, class components can still consume context using static contextType or <Context.Consumer>. 

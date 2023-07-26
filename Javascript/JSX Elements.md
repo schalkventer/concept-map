@@ -1,0 +1,1 @@
+4. [[JSX Elements]]: These are the basic building blocks of React applications, which can represent HTML elements, user-defined components, or plain text

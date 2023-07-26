@@ -1,0 +1,1 @@
+77. [[NaN (Not a Number)]] - A special JavaScript value that indicates an error with number operations. For example, when trying to subtract a string from a number

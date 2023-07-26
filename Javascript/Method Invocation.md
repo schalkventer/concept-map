@@ -1,0 +1,1 @@
+2. [[Method Invocation]] - When a method is called, the special variable `this` is set to the object upon which the method was invoked

@@ -1,0 +1,1 @@
+3. [[Traps]] - The methods of the handler object are referred to as traps. These are the functions that provide property access

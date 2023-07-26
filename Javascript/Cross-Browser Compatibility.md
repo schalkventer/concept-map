@@ -1,0 +1,1 @@
+16. [[Cross-Browser Compatibility]] - PWAs should work across all browsers that support the necessary web technologies (service workers, web app manifest, and more)

@@ -1,0 +1,1 @@
+14. [[Object Instances]] - An instance of an object is created by calling a constructor function with the `new` keyword

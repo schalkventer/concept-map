@@ -1,0 +1,1 @@
+6. [[window.navigator]] - This object provides information about the visitor's browser

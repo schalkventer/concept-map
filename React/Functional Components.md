@@ -1,0 +1,1 @@
+Functional Components: These are components expressed as functions, potentially with some hooks for state and side-effects.

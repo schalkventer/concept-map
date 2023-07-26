@@ -1,0 +1,1 @@
+20. [[Loading Indicators]] - In SPAs, loading indicators are used to inform users that a process is running in the background (like data fetching), providing feedback and improving user experience

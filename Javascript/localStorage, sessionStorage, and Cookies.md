@@ -1,0 +1,1 @@
+86. [[localStorage, sessionStorage, and Cookies]] - Different ways to store data locally in a user's browser and their differences

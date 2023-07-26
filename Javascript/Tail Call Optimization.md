@@ -1,0 +1,1 @@
+[[Tail Call Optimization]] - A feature in ECMAScript 2015 (ES6) that handles recursive calls more efficiently, thus preventing stack overflow.

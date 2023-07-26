@@ -1,0 +1,1 @@
+7. [[Nested Callbacks]] - Callbacks can be nested within other callbacks, forming multiple levels of functions. This can lead to a situation known as "callback hell

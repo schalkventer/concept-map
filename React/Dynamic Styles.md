@@ -1,0 +1,1 @@
+14. [[Dynamic Styles]]: CSS-in-JS allows you to create styles that are based on props, state, or context, making your styles dynamic and reactive to your application's state

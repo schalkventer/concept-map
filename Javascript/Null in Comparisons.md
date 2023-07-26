@@ -1,0 +1,1 @@
+6. [[Null in Comparisons]] - In equality comparisons, null is only equal to null and undefined, but not any other value

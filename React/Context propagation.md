@@ -1,0 +1,1 @@
+12. [[Context propagation]]: The mechanism through which a context's value is passed down through the component tree

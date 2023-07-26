@@ -1,0 +1,1 @@
+10. [[Capturing Groups]] - Parentheses `()` are used to create a capturing group, which can then be referenced back using a backreference

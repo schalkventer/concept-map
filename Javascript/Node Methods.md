@@ -1,0 +1,1 @@
+7. [[Node Methods]] - Nodes in the DOM have methods which are actions that can be performed on nodes. These methods can be used to manipulate nodes

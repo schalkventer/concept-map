@@ -1,0 +1,1 @@
+Isolating Component Rendering: A technique to ensure that a component doesn't unnecessarily render when its parent updates.

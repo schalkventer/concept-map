@@ -1,0 +1,1 @@
+6. [[Worker Objects]] - A Worker is an object created by a script in the main page, which runs a named JavaScript file, providing an easy means for workers to communicate with other workers or the main script

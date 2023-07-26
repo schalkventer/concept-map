@@ -1,0 +1,1 @@
+6. [[CSS Prop]]: Both styled-components and Emotion offer a CSS prop, allowing you to write CSS directly on a component. 

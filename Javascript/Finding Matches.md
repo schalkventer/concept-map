@@ -1,0 +1,1 @@
+4. [[Finding Matches]] - The `match()` method is used to retrieve all matches between a regex and a string

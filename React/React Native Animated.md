@@ -1,0 +1,1 @@
+React Native Animated: A library for animating components in React Native applications.

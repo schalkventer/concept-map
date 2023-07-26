@@ -1,0 +1,1 @@
+16. [[useEffect Cleanup]]: The optional return function in useEffect that can be used to cleanup or revert side effects when the component unmounts or before the next effect runs

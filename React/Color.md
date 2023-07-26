@@ -1,0 +1,1 @@
+[[Color]] and Color Contrast: Making sure there is enough contrast between the text color and its background is necessary for readability. Also, color should not be used as the only means to convey information

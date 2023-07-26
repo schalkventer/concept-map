@@ -1,0 +1,1 @@
+PropTypes: Allows you to run typechecking on the props for a component, useful for catching bugs.

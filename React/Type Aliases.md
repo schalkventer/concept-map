@@ -1,0 +1,1 @@
+4. [[Type Aliases]]: User-defined types that can be used to represent more complex type structures or to create shorthand notations

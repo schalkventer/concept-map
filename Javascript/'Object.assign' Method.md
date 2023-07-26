@@ -1,0 +1,1 @@
+18. [['Object.assign' Method]] - The `Object.assign()` method is used to copy the values of all enumerable own properties from one or more source objects to a target object

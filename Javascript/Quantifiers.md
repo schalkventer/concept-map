@@ -1,0 +1,1 @@
+12. [[Quantifiers]] - Quantifiers like `*` (0 or more), `+` (1 or more), `?` (0 or 1), `{n}`, `{n,}`, `{n,m}` are used to specify the number of times a character or group should be matched.

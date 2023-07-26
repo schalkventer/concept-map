@@ -1,0 +1,1 @@
+16. [[window.fetch()]] - This method provides an easy, logical way to fetch resources asynchronously across the network

@@ -1,0 +1,1 @@
+6. [[Element Attributes vs. Props]]: JSX elements can have attributes, similar to HTML elements, which can be accessed within the component as properties (props).

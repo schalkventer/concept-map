@@ -1,0 +1,1 @@
+ [[Component-Driven Development (CDD)]]: A practice that uses isolated component development to construct UIs.

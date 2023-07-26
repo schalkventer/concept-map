@@ -1,0 +1,1 @@
+. [[Block-Scoped Variables]] - `let` and `const` create block-scoped variables, limiting their visibility to the nearest enclosing block

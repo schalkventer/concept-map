@@ -1,0 +1,1 @@
+4. [[Private Variables with Closures]] - Closures can create private variables that can't be accessed directly from outside the function

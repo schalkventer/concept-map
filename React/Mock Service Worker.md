@@ -1,0 +1,1 @@
+Mock Service Worker (MSW): An API mocking library for browser and Node.js, which can be used with React to mock API responses during development or testing.

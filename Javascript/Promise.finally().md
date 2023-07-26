@@ -1,0 +1,1 @@
+6. [[Promise.finally()]] - The `finally()` method allows you to specify final code to run after the Promise is settled, regardless of whether it was fulfilled or rejected

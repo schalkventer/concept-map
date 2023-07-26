@@ -1,0 +1,1 @@
+1. [[Single Page Applications (SPAs)]] - SPAs are web applications that load a single HTML page and dynamically update it as the user interacts with the app

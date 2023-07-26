@@ -1,0 +1,1 @@
+97. [[WebAssembly]] - A binary instruction format for a stack-based virtual machine, designed as a portable target for the compilation of high-level languages

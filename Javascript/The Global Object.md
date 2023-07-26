@@ -1,0 +1,1 @@
+98. [[The Global Object]] - In JavaScript, there's always a global object defined. In the browser, it's "window".

@@ -1,0 +1,1 @@
+6. [[`var` vs `let` vs `const`]] - These are different ways to declare variables in JavaScript, with different scoping rules and usage

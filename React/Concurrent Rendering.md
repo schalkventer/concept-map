@@ -1,0 +1,1 @@
+Concurrent Rendering: A set of React features for rendering updates more concurrently to help make applications more responsive.

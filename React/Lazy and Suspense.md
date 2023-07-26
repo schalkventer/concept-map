@@ -1,0 +1,1 @@
+. [[Lazy and Suspense]]: React.Lazy helps to lazily load components while Suspense displays a fallback content while waiting for the lazy component to load

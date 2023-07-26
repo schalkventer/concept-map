@@ -1,0 +1,1 @@
+79. [[JavaScript Date Object]] - Allows you to work with dates (years, months, days, hours, minutes, seconds, and milliseconds

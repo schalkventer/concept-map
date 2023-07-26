@@ -1,0 +1,1 @@
+Dynamic Content Updates: Changes in the state of a component or page should be communicated to assistive technologies using ARIA live regions.

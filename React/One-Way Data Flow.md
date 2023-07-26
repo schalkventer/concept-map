@@ -1,0 +1,1 @@
+One-Way Data Flow: A pattern in React where the model is the single source of truth. Any state is always owned by some specific component, and any data or UI derived from that state can only affect components “below” them in the tree.

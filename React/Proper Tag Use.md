@@ -1,0 +1,1 @@
+Proper Tag Use: The correct usage of tags like <button>, <a>, <input>, etc., which have inherent accessibility benefits.

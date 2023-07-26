@@ -1,0 +1,1 @@
+3. [[Element Nodes]] - The most common type of node is the element node. Most HTML elements become DOM element nodes in the document tree, which can be selected, added, modified, or deleted

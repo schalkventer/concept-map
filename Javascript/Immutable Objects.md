@@ -1,0 +1,1 @@
+19. [[Immutable Objects]] - JavaScript objects are mutable by default, but they can be made immutable by using methods like `Object.freeze()`.

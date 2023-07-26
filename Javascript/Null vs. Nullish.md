@@ -1,0 +1,1 @@
+13. [[Null vs. Nullish]] - The term "nullish" refers to null and undefined. It's often used in the context of nullish coalescing (??) and optional chaining (?.).

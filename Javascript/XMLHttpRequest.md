@@ -1,0 +1,1 @@
+7. [[XMLHttpRequest]] - XMLHttpRequest is an API in the form of an object that provides client functionality for transferring data between a client and a server

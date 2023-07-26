@@ -1,0 +1,1 @@
+Mounting: The phase in the component lifecycle where the component is being created and inserted into the DOM

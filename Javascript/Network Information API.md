@@ -1,0 +1,1 @@
+12. [[Network Information API]] - This API provides information about the system's connection, which can be used to optimize the experience of PWA users

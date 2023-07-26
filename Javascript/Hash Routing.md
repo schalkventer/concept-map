@@ -1,0 +1,1 @@
+7. [[Hash Routing]] - Hash routing is a common technique in SPAs where changing the URL hash does not trigger a page reload, but instead a different view of the application is rendered

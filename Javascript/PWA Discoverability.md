@@ -1,0 +1,1 @@
+19. [[PWA Discoverability]] - As PWAs are essentially websites, they are discoverable by search engines, which is a significant advantage over native apps

@@ -1,0 +1,1 @@
+5. [[Actual Duration]]: A parameter that reports the time spent rendering the committed update. This indicates how well the subtree makes use of memoization (e.g., React.memo, useMemo, shouldComponentUpdate

@@ -1,0 +1,1 @@
+14. [[Validation of Props]]: Using PropTypes, it's possible to validate props for presence, type, shape, etc

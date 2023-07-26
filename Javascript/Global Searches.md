@@ -1,0 +1,1 @@
+5. [[Global Searches]] - The `g` flag after a regular expression is used to perform a global search for matches, not stopping after the first match is found

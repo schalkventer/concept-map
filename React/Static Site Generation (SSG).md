@@ -1,0 +1,1 @@
+Static Site Generation (SSG): The ability to generate static HTML pages at build time in a React application, often used with Next.js.

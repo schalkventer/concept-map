@@ -1,0 +1,1 @@
+Mobile Performance Optimization: Techniques to improve the performance of React Native mobile applications

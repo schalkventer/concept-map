@@ -1,0 +1,1 @@
+8. [[deleteProperty trap]] - The deleteProperty trap can intercept the `delete` operator. It's a method that serves to delete a property

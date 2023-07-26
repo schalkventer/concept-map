@@ -1,0 +1,1 @@
+33. [[Event Bubbling and Capturing]] - Two ways of event propagation in the HTML DOM API when an event occurs in an element inside another element

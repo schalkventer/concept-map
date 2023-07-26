@@ -1,0 +1,1 @@
+React Transition Group: A set of components for managing component states over time, specifically designed with animation in mind

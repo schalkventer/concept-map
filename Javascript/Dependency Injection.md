@@ -1,0 +1,1 @@
+111. [[Dependency Injection]] - A software design pattern in which a class receives its dependencies from an external source rather than creating them itself

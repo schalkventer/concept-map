@@ -1,0 +1,1 @@
+Lifecycle Methods: These are special methods that automatically get called as your component gets rendered, updated, and unmounted

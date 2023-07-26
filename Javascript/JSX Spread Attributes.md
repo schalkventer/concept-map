@@ -1,0 +1,1 @@
+10. [[JSX Spread Attributes]]: You can use the spread operator (...) in JSX to spread the properties of an object into separate props

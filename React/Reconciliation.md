@@ -1,0 +1,1 @@
+ Reconciliation: The process through which React updates the DOM by making it match the React elements

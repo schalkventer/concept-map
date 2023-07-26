@@ -1,0 +1,1 @@
+2. [[Handler]] - The handler object is passed to the Proxy constructor. It's an object whose methods define the behavior of the proxy when an operation is performed on it.

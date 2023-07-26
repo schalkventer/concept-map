@@ -1,0 +1,1 @@
+16. [[Traversing the DOM]] - This involves moving up and down the DOM tree, accessing parent, child, and sibling nodes of an element

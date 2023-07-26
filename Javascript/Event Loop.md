@@ -1,0 +1,1 @@
+15. [[Event Loop]] - The Event Loop is a programming construct that waits for and dispatches events or messages in a program. It works together with the Callback Queue to handle asynchronous callbacks

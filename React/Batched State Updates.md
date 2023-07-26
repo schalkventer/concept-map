@@ -1,0 +1,1 @@
+14. [[Batched State Updates]]: Multiple state updates made in event handlers are batched into a single update for performance reasons

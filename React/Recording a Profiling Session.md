@@ -1,0 +1,1 @@
+. [[Recording a Profiling Session]]: A feature available in React DevTools that allows you to record a set of interactions and analyze the rendering that results from them.

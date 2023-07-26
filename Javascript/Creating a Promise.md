@@ -1,0 +1,1 @@
+2. [[Creating a Promise]] - A Promise is created with the `new Promise()` constructor, which accepts a function (the executor) with two parameters: resolve and reject.

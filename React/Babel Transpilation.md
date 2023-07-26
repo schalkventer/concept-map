@@ -1,0 +1,1 @@
+2. [[Babel Transpilation]]: Babel is used to convert JSX into regular JavaScript that the browser can understand

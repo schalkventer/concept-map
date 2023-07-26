@@ -1,0 +1,1 @@
+20. [[window.performance]] - This property returns a Performance object, which can be used to gather performance information about the current document

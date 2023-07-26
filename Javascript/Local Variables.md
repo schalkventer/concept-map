@@ -1,0 +1,1 @@
+. [[Local Variables]] - Local variables have function scope and are only accessible within the function where they are defined.

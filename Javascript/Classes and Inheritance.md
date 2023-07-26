@@ -1,0 +1,1 @@
+85. [[Classes and Inheritance]] - Although JavaScript is primarily a prototype-based language, it also supports classes and inheritance as of ES6

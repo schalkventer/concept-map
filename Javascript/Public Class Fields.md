@@ -1,0 +1,1 @@
+14. [[Public Class Fields]] - Public fields are fields that are always created in the class instance, they're written without a `#`.

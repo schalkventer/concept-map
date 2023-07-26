@@ -1,0 +1,1 @@
+15. [[Interactions Tracking]]: The Profiler API also allows tracking the causes of an update, although it requires additional configuration

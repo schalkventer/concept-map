@@ -1,0 +1,1 @@
+2. [[Constructor Method]] - The constructor method is a special method for creating and initializing an object created within a class

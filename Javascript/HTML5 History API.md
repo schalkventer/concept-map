@@ -1,0 +1,1 @@
+8. [[HTML5 History API]] - The HTML5 History API allows for navigation in an SPA without causing page reloads, maintaining the single page application feel

@@ -1,0 +1,1 @@
+13. [[Creating Resolved or Rejected Promises]] - `Promise.resolve()` and `Promise.reject()` can be used to create a Promise that is immediately resolved or rejected with a given value.

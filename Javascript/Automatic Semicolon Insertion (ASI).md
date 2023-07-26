@@ -1,0 +1,1 @@
+. [[Automatic Semicolon Insertion (ASI)]] - A mechanism in JavaScript that automatically adds semicolons to end lines of code where they are expected

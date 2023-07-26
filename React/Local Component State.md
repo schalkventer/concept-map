@@ -1,0 +1,1 @@
+17. [[Local Component State]]: Refers to state that is specific to a component and not shared with any other component in the application

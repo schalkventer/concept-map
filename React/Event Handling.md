@@ -1,0 +1,1 @@
+. [[Event Handling]]: React creates a synthetic event system to handle user interactions with elements

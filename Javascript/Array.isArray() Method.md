@@ -1,0 +1,1 @@
+13. [[Array.isArray() Method]] - `Array.isArray()` is a static function that returns `true` if the passed value is an array, and `false` otherwise

@@ -1,0 +1,1 @@
+React Native: A framework developed by Facebook for building native-style mobile applications using JavaScript and React.

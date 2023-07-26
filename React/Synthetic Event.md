@@ -1,0 +1,1 @@
+. Synthetic Event: A cross-browser wrapper around the browser’s native event system, combining the behavior of different browsers into a single API

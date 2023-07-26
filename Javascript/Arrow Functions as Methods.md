@@ -1,0 +1,1 @@
+15. [[Arrow Functions as Methods]] - Arrow functions behave differently than traditional function expressions when used as methods. Specifically, they do not get their own `this` binding. 

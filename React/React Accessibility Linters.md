@@ -1,0 +1,1 @@
+React Accessibility Linters: Linters such as eslint-plugin-jsx-a11y can catch accessibility issues in the development phase itself

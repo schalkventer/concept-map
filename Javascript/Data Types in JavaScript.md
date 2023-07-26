@@ -1,0 +1,1 @@
+38. [[Data Types in JavaScript]] - Understanding the different data types in JavaScript like Number, String, Object, Boolean, etc

@@ -1,0 +1,1 @@
+12. [[JavaScript Interpolation]]: With CSS-in-JS, JavaScript expressions can be directly interpolated into your styles, allowing for more dynamic styling based on props or state

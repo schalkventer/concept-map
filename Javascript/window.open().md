@@ -1,0 +1,1 @@
+12. [[window.open()]] - This method can be used to open a new browser window

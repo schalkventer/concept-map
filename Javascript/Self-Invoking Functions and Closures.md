@@ -1,0 +1,1 @@
+11. [[Self-Invoking Functions and Closures]] - Self-invoking functions can create closures each time they're run, providing a clean slate for variable environments

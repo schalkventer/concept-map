@@ -1,0 +1,1 @@
+19. [[Event Delegation and Closures]] - Event delegation can use closures to keep reference to the needed variables while listening for events on a parent element

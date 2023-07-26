@@ -1,0 +1,1 @@
+20. [[JavaScript Object Notation (JSON)]] - JSON is a syntax for storing and exchanging data, which is just a text written in JavaScript object notation

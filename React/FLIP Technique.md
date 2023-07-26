@@ -1,0 +1,1 @@
+FLIP Technique: An approach to animations that stands for First, Last, Invert, Play. It’s a way to animate layout changes efficiently

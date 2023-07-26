@@ -1,0 +1,1 @@
+. [[Higher-Order Components (HOCs)]]: These are functions that take a component and return a new component, with the possibility of conditional rendering

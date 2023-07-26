@@ -1,0 +1,1 @@
+10. [[Getter and Setter Methods]] - JavaScript objects can define getter and setter methods, which are special methods used to retrieve and update the values of an object's properties

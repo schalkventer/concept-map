@@ -1,0 +1,1 @@
+6. [[useCallback]]: A built-in hook that returns a memoized version of the callback that only changes if dependencies change

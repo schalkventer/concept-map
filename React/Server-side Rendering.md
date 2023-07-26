@@ -1,0 +1,1 @@
+9. [[Server-side Rendering]]: Some CSS-in-JS libraries include ways to extract the CSS on the server, allowing your styles to be included in the initial HTML and preventing a flash of unstyled content

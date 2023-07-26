@@ -1,0 +1,1 @@
+7. [[Promise Chaining]] - Promises can be chained together to perform a series of asynchronous operations. The return value of one callback is passed as input to the next `then()` callback

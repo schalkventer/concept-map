@@ -1,0 +1,1 @@
+17. [[Method Borrowing]] - Method borrowing is a technique in JavaScript where an object uses a method of another object

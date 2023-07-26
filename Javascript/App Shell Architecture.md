@@ -1,0 +1,1 @@
+11. [[App Shell Architecture]] - This is an application design concept where the initial load of a PWA provides a shell of an app UI, and the content populates later as it becomes available

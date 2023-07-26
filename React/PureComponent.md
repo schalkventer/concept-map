@@ -1,0 +1,1 @@
+[[PureComponent]]: A variant of standard components that perform a shallow comparison on state and props data to decide if a component should re-render, optimizing performance

@@ -1,0 +1,2 @@
+
+3. [[Component Lifecycle]]: The series of methods that are invoked in different stages of a component's existence. The lifecycle can be broken down into three main phases: Mounting, Updating, and Unmounting

@@ -1,0 +1,1 @@
+13. [[Variable Shadowing]] - When a variable in a local scope has the same name as a variable in the outer scope, the local variable shadows the outer one

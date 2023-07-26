@@ -1,0 +1,1 @@
+39. [[Regular Expressions in JavaScript]] - A sequence of characters that forms a search pattern, used for pattern matching with strings

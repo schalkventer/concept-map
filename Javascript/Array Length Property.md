@@ -1,0 +1,1 @@
+5. [[Array Length Property]] - The `length` property of an array returns or sets the number of elements in that array

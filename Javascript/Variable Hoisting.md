@@ -1,0 +1,1 @@
+2. [[Variable Hoisting]] - Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their containing scope

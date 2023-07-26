@@ -1,0 +1,1 @@
+Uncontrolled Components: Components where the form data is handled by the DOM itself

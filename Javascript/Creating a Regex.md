@@ -1,0 +1,1 @@
+. [[Creating a Regex]] - Regular expressions in JavaScript can be created either by using a regex literal (`/pattern/flags`) or by using the `RegExp` constructor (`new RegExp(pattern, flags)`).

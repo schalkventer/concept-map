@@ -1,0 +1,1 @@
+1. [[Conditional Operators]]: These include logical AND (&&), logical OR (||), and ternary operators (?:). They can be used to determine what part of a component is rendered based on certain conditions

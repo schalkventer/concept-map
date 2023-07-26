@@ -1,0 +1,1 @@
+torybook Manager]]: The UI where you search, navigate, and customize stories in Storybook

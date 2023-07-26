@@ -1,0 +1,1 @@
+. Styled Components: A popular CSS-in-JS library that allows you to write actual CSS in your JavaScript, promoting component-based styling

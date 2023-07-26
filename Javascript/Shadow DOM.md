@@ -1,0 +1,1 @@
+[[Shadow DOM]] - A web standard that helps you build components, which is meant to encapsulate JavaScript, CSS, and templates.

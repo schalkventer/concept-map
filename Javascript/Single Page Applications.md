@@ -1,0 +1,1 @@
+71. [[Javascript/Single Page Applications]] - A type of web application that interacts with the user by dynamically rewriting the current web page with new data from the server, instead of loading entire new pages

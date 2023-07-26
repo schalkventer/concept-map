@@ -1,0 +1,1 @@
+8. [[Switch Case]]: This can be used to handle multiple conditions before rendering a component or an element

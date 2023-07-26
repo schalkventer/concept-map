@@ -1,0 +1,1 @@
+[[jQuery]] - A fast, small, and feature-rich JavaScript library that simplifies the interaction between HTML and JavaScript.

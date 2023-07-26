@@ -1,0 +1,1 @@
+15. [[PWA and Performance]] - PWAs aim to be fast and performant, and therefore involve strategies for efficient caching, resource prioritization, and load optimization.

@@ -1,0 +1,1 @@
+10. [[Immutability with `const`]] - Variables declared with `const` are read-only and cannot be reassigned, but properties of `const` objects can still be modified

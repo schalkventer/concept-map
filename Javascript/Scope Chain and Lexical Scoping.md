@@ -1,0 +1,1 @@
+105. [[Scope Chain and Lexical Scoping]] - Concepts related to how variable lookups happen and how closures work

@@ -1,0 +1,1 @@
+11. [[Fetch API]] - A modern interface for making HTTP requests, replacing the older XMLHttpRequest

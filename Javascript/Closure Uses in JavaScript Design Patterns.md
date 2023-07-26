@@ -1,0 +1,1 @@
+15. [[Closure Uses in JavaScript Design Patterns]] - Many design patterns in JavaScript, such as the module and factory patterns, use closures

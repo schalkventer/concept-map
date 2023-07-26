@@ -1,0 +1,1 @@
+Micro-frontends: A microservice approach to front-end web development which allows you to split a monolithic React application into smaller, more manageable projects

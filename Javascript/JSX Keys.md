@@ -1,0 +1,1 @@
+13. [[JSX Keys]]: When rendering an array of elements, each element should have a unique "key" prop to help React identify which items have changed, are added, or are removed

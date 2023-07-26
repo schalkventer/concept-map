@@ -1,0 +1,1 @@
+8. [[Special Characters in Regex]] - Certain characters like `.`, `\`, `*`, `+`, `?`, `^`, `$`, `(`, `)`, `[`, `]`, `{`, `}`, `|` have special meanings in regex and need to be escaped with a backslash (`\`) if they are meant to represent the actual character.

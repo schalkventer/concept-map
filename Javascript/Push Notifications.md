@@ -1,0 +1,1 @@
+6. [[Push Notifications]] - PWAs can receive push messages from a server, even when the web app is not active, through the Push API and Notifications API

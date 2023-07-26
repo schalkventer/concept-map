@@ -1,0 +1,1 @@
+[setState]]: The method used to update a component’s state

@@ -1,0 +1,1 @@
+20. [[Null and Memory Management]] - Setting variables or object properties to null when they're no longer needed can allow those values to be garbage collected, freeing up memory

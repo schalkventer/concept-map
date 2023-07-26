@@ -1,0 +1,1 @@
+SyntheticEvent: A cross-browser wrapper around the browser’s native event. It combines the behavior of different browsers into one API, ensuring that events have consistent properties.

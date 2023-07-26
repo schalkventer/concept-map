@@ -1,0 +1,1 @@
+useState vs useReducer: useState is a Hook that allows you to have state variables in functional components while useReducer is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one

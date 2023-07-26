@@ -1,0 +1,1 @@
+13. [[Private Methods]] - Similar to private fields, JavaScript also supports private methods. Private methods are also marked with `#` and cannot be accessed outside of the class

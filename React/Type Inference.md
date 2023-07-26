@@ -1,0 +1,1 @@
+3. [[Type Inference]]: TypeScript's ability to automatically detect and assign types based on the values of your variables and expressions

@@ -1,0 +1,1 @@
+16. [[API Endpoints]] - An API endpoint is a specific route or URL that an API responds to. In SPAs, these are often used to handle data fetching and manipulation

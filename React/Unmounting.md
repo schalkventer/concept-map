@@ -1,0 +1,1 @@
+Unmounting: The final phase of the component lifecycle where the component is being removed from the DOM.

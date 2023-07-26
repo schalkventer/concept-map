@@ -1,0 +1,1 @@
+Context Selector: A mechanism to make a component only re-render when specific parts of the context value change. It can help optimize performance when using React's Context API

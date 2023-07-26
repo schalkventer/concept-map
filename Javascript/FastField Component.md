@@ -1,0 +1,1 @@
+15. [[FastField Component]]: This is similar to Field, but optimized for performance. It's used for large forms with frequent updates

@@ -1,0 +1,1 @@
+9. [[apply trap]] - The apply trap intercepts function calls. It's a method that calls a target function

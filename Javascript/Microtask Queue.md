@@ -1,0 +1,1 @@
+112. [[Microtask Queue]] - Understanding the microtask queue in JavaScript, which includes promises and mutation observers, and is processed after callbacks and before rendering

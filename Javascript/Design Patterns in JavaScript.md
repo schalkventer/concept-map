@@ -1,0 +1,1 @@
+51. [[Design Patterns in JavaScript]] - Various software design patterns that are particularly suited to adaptation into JavaScript

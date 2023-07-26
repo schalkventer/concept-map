@@ -1,0 +1,1 @@
+19. [[Meta-programming]] - Proxies are a meta-programming feature. They allow a program to be designed in terms of itself

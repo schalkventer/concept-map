@@ -1,0 +1,1 @@
+3. [[Testing for Matches]] - The `test()` method is used to test whether a regex pattern is found in a string.

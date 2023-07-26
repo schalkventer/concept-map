@@ -1,0 +1,1 @@
+9. [[getElementById]] - This method returns an element with the matching id attribute

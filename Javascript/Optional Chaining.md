@@ -1,0 +1,1 @@
+[[Optional Chaining]] - An operator in JavaScript that allows you to try to access nested object properties without having to check if the property exists.

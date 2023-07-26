@@ -1,0 +1,1 @@
+17. [[HTTP3]] - HTTP/3 is the upcoming third major version of the Hypertext Transfer Protocol, which uses QUIC instead of TCP for transport to improve performance

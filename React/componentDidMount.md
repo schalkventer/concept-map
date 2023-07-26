@@ -1,0 +1,1 @@
+omponentDidMount]]: A lifecycle method that gets called immediately after a component is inserted into the tree. It's commonly used to perform setup logic for the component

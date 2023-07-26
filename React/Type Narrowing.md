@@ -1,0 +1,1 @@
+ [[Type Narrowing]]: TypeScript's ability to progressively narrow down the type of a variable within conditional blocks

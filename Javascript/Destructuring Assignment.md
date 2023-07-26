@@ -1,0 +1,1 @@
+12. [[Destructuring Assignment]] - A feature in JavaScript that allows unpacking values from arrays, or properties from objects, into distinct variables

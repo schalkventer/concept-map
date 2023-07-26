@@ -1,0 +1,1 @@
+8. [[Typed Arrays]] - Typed arrays are used to deal with binary data in specific number formats, useful for WebGL or other byte-level operations

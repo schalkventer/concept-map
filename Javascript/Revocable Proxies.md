@@ -1,0 +1,1 @@
+18. [[Revocable Proxies]] - JavaScript provides `Proxy.revocable()`, which creates a revocable Proxy. This allows us to turn off the proxy's operations and let garbage collection take place

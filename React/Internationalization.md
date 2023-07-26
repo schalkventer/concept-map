@@ -1,0 +1,1 @@
+Internationalization (i18n) and Localization (l10n): Adapting your React application to different languages, regional peculiarities and technical requirements of a target locale.

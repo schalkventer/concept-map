@@ -1,0 +1,1 @@
+. [[Web App Manifest]] - The web app manifest is a JSON file that controls how a PWA appears to the user and how it can be launched. It includes properties like name, background color, display mode, and icons

@@ -1,0 +1,1 @@
+20. [[Array Cloning]] - Creating a duplicate of an existing array is known as array cloning. It can be performed in different ways, such as using the spread operator or the `slice()` method.

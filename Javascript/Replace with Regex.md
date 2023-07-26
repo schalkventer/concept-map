@@ -1,0 +1,1 @@
+19. [[Replace with Regex]] - The `replace()` method is used to replace matched substrings. Backreferences can be used in the replacement string

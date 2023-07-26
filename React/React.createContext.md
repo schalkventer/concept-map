@@ -1,0 +1,1 @@
+7. [[React.createContext]]: A function in the React API used to create a new context object

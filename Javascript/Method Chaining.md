@@ -1,0 +1,1 @@
+7. [[Method Chaining]] - Some methods return an object, allowing the calls to be chained together. This is common with array and string methods, among others

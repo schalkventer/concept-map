@@ -1,0 +1,1 @@
+7. [[Stage 3 Candidate]] - The proposal is mostly finished and now needs feedback from implementations and users to progress further

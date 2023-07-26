@@ -1,0 +1,1 @@
+. [[setTimeout and setInterval]] - These built-in JavaScript methods schedule and repeat execution of a callback after a set amount of time, respectively

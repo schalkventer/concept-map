@@ -1,0 +1,1 @@
+High Contrast UI: Users with vision impairments might need high contrast between foreground and background elements to perceive the content correctly.

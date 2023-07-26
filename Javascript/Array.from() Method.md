@@ -1,0 +1,1 @@
+12. [[Array.from() Method]] - `Array.from()` is a static method that creates a new array instance from an array-like or iterable object

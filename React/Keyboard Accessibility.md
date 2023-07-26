@@ -1,0 +1,1 @@
+Keyboard Accessibility: Ensuring all functionality of the app can be achieved using only the keyboard. This is important for users who cannot use a mouse or similar pointing device.

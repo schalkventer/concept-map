@@ -1,0 +1,1 @@
+Custom Hooks: Functions that let you “hook into” React state and lifecycle features from function components, while also encapsulating complex logic outside of the component.

@@ -1,0 +1,1 @@
+12. [[Promise Rejection Handling]] - Unhandled promise rejections can be caught at the global level by listening to the `unhandledrejection` event.

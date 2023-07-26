@@ -1,0 +1,1 @@
+8. [[State vs. Props]]: While both state and props hold information that influences the output of render, they are handled slightly differently, with props being passed in by parents and state being managed within the component.

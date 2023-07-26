@@ -1,0 +1,1 @@
+12. [[Anonymous Function]] - Callback functions are often anonymous functions, which are functions without a name. These are used for on-the-spot execution

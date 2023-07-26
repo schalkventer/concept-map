@@ -1,0 +1,1 @@
+ React Fiber: It's the reimplementation of React's reconciliation algorithm. It's main goal is to enable incremental rendering - the ability to split rendering work into chunks and spread it out over multiple frames

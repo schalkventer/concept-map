@@ -1,0 +1,1 @@
+101. [[Error Objects]] - JavaScript's built-in error handling mechanism. Errors can be thrown, and then caught using try...catch statements

@@ -1,0 +1,1 @@
+13. [[window.close()]] - This method can be used to close the current browser window

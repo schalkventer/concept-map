@@ -1,0 +1,1 @@
+. [[Callback Hell]] - This is a colloquial term for having many nested callbacks which can make the code hard to read and debug due to complex and nested scopes

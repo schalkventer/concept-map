@@ -1,0 +1,1 @@
+3. [[Object Properties]] - Properties are the values associated with a JavaScript object. A JavaScript object is a collection of unordered properties

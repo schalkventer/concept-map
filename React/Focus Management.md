@@ -1,0 +1,1 @@
+Focus Management: Proper handling of focus in an application allows a user to navigate and interact with elements in the expected order. 

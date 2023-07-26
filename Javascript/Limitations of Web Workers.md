@@ -1,0 +1,1 @@
+15. [[Limitations of Web Workers]] - Web Workers run in an isolated thread, so they don't have access to the DOM or the window object. Also, they can't directly manipulate the webpage

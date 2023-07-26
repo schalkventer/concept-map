@@ -1,0 +1,1 @@
+18. [[Context vs. Redux]]: Redux is a popular state management library for React that can also be used for sharing data across a component tree. However, context can be simpler for smaller applications

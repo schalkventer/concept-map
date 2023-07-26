@@ -1,0 +1,1 @@
+2. [[Higher-Order Function]] - A higher-order function is a function that takes one or more functions as arguments, returns a function, or both. Callback functions are often passed as parameters to higher-order functions

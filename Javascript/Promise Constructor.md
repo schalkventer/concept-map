@@ -1,0 +1,1 @@
+18. [[Promise Constructor]] - The Promise constructor is primarily used to wrap functions that do not already support Promises.

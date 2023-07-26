@@ -1,0 +1,1 @@
+14. [[Responsive Design]] - PWAs should be built with a responsive design to ensure they provide a good user experience on any device

@@ -1,0 +1,1 @@
+20. [[Method Definitions in Classes]] - ES6 classes allow for a simpler syntax for method definitions, without needing the function keyword

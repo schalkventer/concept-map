@@ -1,0 +1,1 @@
+7. [[Theming]]: Many CSS-in-JS libraries include built-in ways to provide a theme (a set of variables, such as colors or fonts) that can be used across all of your styles

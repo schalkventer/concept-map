@@ -1,0 +1,1 @@
+7. [[postMessage()]] - The method used to send data to a Web Worker

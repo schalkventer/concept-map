@@ -1,0 +1,1 @@
+1. [[Null Definition in JavaScript]] - In JavaScript, null is a primitive value that represents the intentional absence of any object value

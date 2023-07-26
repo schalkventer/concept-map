@@ -1,0 +1,1 @@
+5. [[Null and Object Properties]] - Object properties can be set to null to indicate that they should not currently point to an object

@@ -1,0 +1,1 @@
+11. [[Vendor Prefixing]]: Many CSS-in-JS libraries automatically add vendor prefixes to your styles, ensuring compatibility across different browsers

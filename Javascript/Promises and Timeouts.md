@@ -1,0 +1,1 @@
+. [[Promises and Timeouts]] - Promises can be used with `setTimeout()` to delay an operation, or to perform an operation if a Promise doesn't settle within a certain amount of time.

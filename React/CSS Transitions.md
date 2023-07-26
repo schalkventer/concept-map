@@ -1,0 +1,1 @@
+CSS Transitions: These are used for creating time-based transformations on elements when their state changes.

@@ -1,0 +1,1 @@
+18. [[Props Flow]]: In React, props flow down the components tree. A parent component passes properties down to its child components

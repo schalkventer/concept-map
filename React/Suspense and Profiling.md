@@ -1,0 +1,1 @@
+19. [[Suspense and Profiling]]: React's Suspense feature allows components to "wait" for something before they can render, and the Profiler API can help to measure this "waiting" time

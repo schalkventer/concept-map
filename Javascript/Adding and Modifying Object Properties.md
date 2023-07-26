@@ -1,0 +1,1 @@
+11. [[Adding and Modifying Object Properties]] - You can add new properties to an object, or modify existing ones, by simply assigning a value to a property with the assignment operator (`=`).

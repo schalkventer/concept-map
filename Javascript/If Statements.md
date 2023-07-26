@@ -1,0 +1,1 @@
+7. [[If Statements]]: While not directly used within JSX, if statements in the render method of a component can be used to conditionally create elements and components

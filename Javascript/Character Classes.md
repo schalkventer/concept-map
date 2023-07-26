@@ -1,0 +1,1 @@
+9. [[Character Classes]] - Enclosing characters in `[]` specifies a character class. A character class matches any one character enclosed in the brackets

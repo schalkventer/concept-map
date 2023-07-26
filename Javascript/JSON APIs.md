@@ -1,0 +1,1 @@
+5. [[JSON APIs]] - SPAs often interact with back-end servers via JSON APIs (Application Programming Interfaces) for data operations

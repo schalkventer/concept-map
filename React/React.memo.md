@@ -1,0 +1,1 @@
+React.memo: A higher order component that helps in optimizing the functional components by avoiding unnecessary renders

@@ -1,0 +1,1 @@
+18. [[Community Input]] - Community input is a crucial part of the TC39 process. Proposals often start as community discussions and require community feedback as they are developed

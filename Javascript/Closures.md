@@ -1,0 +1,1 @@
+2. [[Closures]] - The ability of an inner function to have access to variables and parameters of its outer function even after the outer function has finished execution

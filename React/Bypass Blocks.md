@@ -1,0 +1,1 @@
+. [[Bypass Blocks]]: Providing a way to bypass blocks of content that are repeated on multiple pages, like navigation menus

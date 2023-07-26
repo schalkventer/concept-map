@@ -1,0 +1,1 @@
+2. [[Dedicated Workers]] - These are workers that are utilized by a single script. They are not shared across different scripts or tabs

@@ -1,0 +1,1 @@
+Redux: A predictable state container designed to help write JavaScript apps that behave consistently across client, server, and native environments.

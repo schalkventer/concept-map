@@ -1,0 +1,1 @@
+Scroll-Based Animation: Animation that corresponds with the user's scroll position, which can be achieved with libraries like React Scroll Parallax.

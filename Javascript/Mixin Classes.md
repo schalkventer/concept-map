@@ -1,0 +1,1 @@
+19. [[Mixin Classes]] - Mixins are a way of building up classes from reusable components. They're used in JavaScript to cope with the fact that JavaScript does not support multiple inheritance

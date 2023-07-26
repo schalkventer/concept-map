@@ -1,0 +1,1 @@
+4. [[Promise.then()]] - The `then()` method returns a Promise. It takes up to two arguments: callback functions for the success and failure cases of the Promise

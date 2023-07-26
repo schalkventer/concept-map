@@ -1,0 +1,1 @@
+19. [[Null Prototype]] - null, similar to undefined, does not have a prototype and therefore does not inherit any methods or properties

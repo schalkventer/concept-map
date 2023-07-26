@@ -1,0 +1,1 @@
+10. [[ECMAScript Proposals]] - ECMAScript proposals are changes or features that are proposed to the standard language specification

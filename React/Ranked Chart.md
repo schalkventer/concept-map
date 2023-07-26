@@ -1,0 +1,1 @@
+13. [[Ranked Chart]]: A visualization in React DevTools that helps to identify the components that took the longest total time to render during the profiling session

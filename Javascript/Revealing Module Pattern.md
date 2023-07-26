@@ -1,0 +1,1 @@
+45. [[Revealing Module Pattern]] - A design pattern in JavaScript that allows for private scopes in JavaScript objects

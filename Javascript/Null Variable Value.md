@@ -1,0 +1,1 @@
+8. [[Null Variable Value]] - `null` is an assignment value that means "no value" or "no object". It is an intentional absence of any object value

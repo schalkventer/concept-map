@@ -1,0 +1,1 @@
+3. [[onRender Callback]]: A function that React calls any time a component within the profiled tree commits an update. It receives parameters like phase, actualDuration, startTime, etc

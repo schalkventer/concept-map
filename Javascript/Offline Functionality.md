@@ -1,0 +1,1 @@
+5. [[Offline Functionality]] - One of the key features of PWAs is their ability to work offline. This is achieved through caching strategies implemented by service workers

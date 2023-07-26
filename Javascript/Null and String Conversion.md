@@ -1,0 +1,1 @@
+17. [[Null and String Conversion]] - When null is concatenated with a string or coerced into a string, it becomes "null

@@ -1,0 +1,1 @@
+16. [[Null and Destructuring]] - If you attempt to destructure null or assign properties to it, JavaScript throws a TypeError because null is not an object

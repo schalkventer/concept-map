@@ -1,0 +1,1 @@
+ype vs Interface]]: The choice between using 'type' or 'interface' for type definitions, each with its own strengths and weaknesses

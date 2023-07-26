@@ -1,0 +1,1 @@
+5. [[get trap]] - The get trap can intercept property accessing. It's a method that serves to get the value of a property

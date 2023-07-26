@@ -1,0 +1,2 @@
+
+88. [[Request Animation Frame]] - A method that tells the browser that you wish to perform an animation and requests that the browser call a specified function to update an animation before the next repaint

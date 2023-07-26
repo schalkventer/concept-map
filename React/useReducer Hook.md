@@ -1,0 +1,1 @@
+useReducer Hook: An alternative to useState. Accepts a reducer of type (state, action) => newState, and returns the current state paired with a dispatch method.

@@ -1,0 +1,1 @@
+Error Handling: Catching JavaScript errors anywhere in their child component tree, log those errors, and display a fallback UI with error boundaries.

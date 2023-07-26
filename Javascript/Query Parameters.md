@@ -1,0 +1,1 @@
+15. [[Query Parameters]] - Query parameters are a defined set of parameters attached to the end of a url, which are used to share context information and control the details of the HTTP request

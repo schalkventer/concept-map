@@ -1,0 +1,1 @@
+5. [[WorkerGlobalScope]] - It's an abstract interface that represents the global execution context of a worker, providing functionality available to both dedicated workers and shared workers

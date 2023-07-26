@@ -1,0 +1,1 @@
+9. [[Server-Side Rendering (SSR)]] - Server-side rendering can be used with SPAs for improving initial page load performance and better SEO by rendering the application on the server on the first request

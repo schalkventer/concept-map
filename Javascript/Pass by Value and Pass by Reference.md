@@ -1,0 +1,1 @@
+11. [[Pass by Value and Pass by Reference]] - Primitive types are passed by value and objects are passed by reference in JavaScript

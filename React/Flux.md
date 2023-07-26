@@ -1,0 +1,1 @@
+Flux: An application architecture for building user interfaces that Facebook recommends when using React.

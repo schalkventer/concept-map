@@ -1,0 +1,1 @@
+Pose Animation Library: A declarative animation library for HTML, SVG and React.

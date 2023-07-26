@@ -1,0 +1,1 @@
+. [[Tagged Template Literals]]: The syntax used by libraries like styled-components and Emotion, allowing you to write CSS inside JavaScript template strings

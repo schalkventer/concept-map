@@ -1,0 +1,1 @@
+State and Lifecycle Methods: The state of a component and the lifecycle methods can be used to control animations.

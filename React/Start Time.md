@@ -1,0 +1,1 @@
+7. [[Start Time]]: When React began rendering this update

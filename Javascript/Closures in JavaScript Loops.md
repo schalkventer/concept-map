@@ -1,0 +1,1 @@
+18. [[Closures in JavaScript Loops]] - Using closures in loops can allow for loop variables to maintain state in a way that might be unexpected for developers new to JavaScript

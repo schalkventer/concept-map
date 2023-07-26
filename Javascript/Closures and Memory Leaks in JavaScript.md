@@ -1,0 +1,1 @@
+6. [[Closures and Memory Leaks in JavaScript]] - Improper use of closures can lead to memory leaks if large objects are referenced and not properly de-referenced

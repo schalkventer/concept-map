@@ -1,0 +1,1 @@
+12. [[setPrototypeOf trap]] - The setPrototypeOf trap intercepts calls to `Object.setPrototypeOf`. It's a method that serves to set the prototype of an object

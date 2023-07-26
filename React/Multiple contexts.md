@@ -1,0 +1,1 @@
+20. [[Multiple contexts]]: An application can have multiple separate contexts. This can be useful for separating different types of state, such as user data vs. UI state

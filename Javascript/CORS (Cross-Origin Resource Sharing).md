@@ -1,0 +1,1 @@
+10. [[CORS (Cross-Origin Resource Sharing)]] - CORS is a mechanism that uses additional HTTP headers to tell browsers to give a web application running at one origin, access to selected resources from a different origin

@@ -1,0 +1,1 @@
+6. [[State Management]] - State management in SPAs can become complex due to user interactions happening in one page. Libraries like Redux and Vuex help manage this state effectively

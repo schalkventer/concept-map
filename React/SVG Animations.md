@@ -1,0 +1,1 @@
+SVG Animations: React can render SVGs, which opens up the possibility for more complex graphical animations

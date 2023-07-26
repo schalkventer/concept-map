@@ -1,0 +1,1 @@
+Two-Way Data Binding: A pattern where UI fields are bound to model data dynamically such that when a UI field changes, the model data changes with it and vice-versa

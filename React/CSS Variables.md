@@ -1,0 +1,1 @@
+20. [[CSS Variables]]: CSS-in-JS solutions typically support CSS Custom Properties (also known as CSS variables), allowing for more dynamic and reusable styles

@@ -1,0 +1,1 @@
+11. [[Worker Location]] - The worker location is represented by the WorkerLocation object, containing the actual script location of the Worker

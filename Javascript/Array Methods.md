@@ -1,0 +1,1 @@
+4. [[Array Methods]] - JavaScript arrays have many built-in methods, including `map()`, `filter()`, `reduce()`, `push()`, `pop()`, `shift()`, `unshift()`, and many more

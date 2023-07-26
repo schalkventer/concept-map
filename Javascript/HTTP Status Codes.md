@@ -1,0 +1,1 @@
+4. [[HTTP Status Codes]] - HTTP response status codes indicate whether a specific HTTP request has been successfully completed. They are categorized in five classes: informational responses, successful responses, redirection messages, client error responses, and server error responses

@@ -1,0 +1,1 @@
+2. [[Nodes]] - In the DOM, all parts of the document, such as elements, attributes, and text, are nodes in the document tree

@@ -1,0 +1,1 @@
+8. [[validateOnBlur]]: This is a Formik configuration option that triggers validation when a field is blurred

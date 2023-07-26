@@ -1,0 +1,1 @@
+18. [[Null and Map, Set]] - JavaScript's Map and Set structures can store null values

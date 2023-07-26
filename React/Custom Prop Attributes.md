@@ -1,0 +1,2 @@
+
+20. [[Custom Prop Attributes]]: Besides the built-in DOM attributes, you can also pass in custom attributes as props. However, they should be prefixed with `data-` to be valid HTML and avoid potential issues

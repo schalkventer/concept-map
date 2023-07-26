@@ -1,0 +1,1 @@
+3. [[HTTP Request Methods]] - There are several HTTP request methods, including GET (retrieve data), POST (send data), PUT (update data), DELETE (remove data), among others

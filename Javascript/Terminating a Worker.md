@@ -1,0 +1,1 @@
+9. [[Terminating a Worker]] - A web worker can be terminated by invoking the Worker.terminate() method from the main page

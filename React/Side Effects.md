@@ -1,0 +1,1 @@
+14. [[Side Effects]]: Operations that affect state outside the scope of the function being executed. Hooks like useEffect are used to handle side effects

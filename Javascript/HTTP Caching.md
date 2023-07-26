@@ -1,0 +1,1 @@
+. [[HTTP Caching]] - HTTP caching is an important part of optimizing for performance. When properly implemented, it allows client to store responses for reuse, reducing network traffic

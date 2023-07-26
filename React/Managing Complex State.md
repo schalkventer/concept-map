@@ -1,0 +1,1 @@
+19. [[Managing Complex State]]: For complex state logic, the `useReducer` hook or state management libraries like Redux or MobX are used

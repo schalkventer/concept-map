@@ -1,0 +1,1 @@
+Framer Motion: A production-ready motion library for React that provides animations and transitions

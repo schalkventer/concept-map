@@ -1,0 +1,1 @@
+9. [[validateOnChange]]: This is a Formik configuration option that triggers validation when a field's value changes

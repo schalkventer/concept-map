@@ -1,0 +1,1 @@
+ [[Null and Undefined in JSX]]: When null or undefined is included in JSX, it is ignored, making it useful for conditionally rendering content 

@@ -1,0 +1,1 @@
+9. [[Rules of Hooks]]: Rules that must be followed when using hooks, including only calling hooks at the top level (not in loops or if statements), and only calling hooks from React functions

@@ -1,0 +1,1 @@
+11. [[Closures in Functions]] - A closure is a function that has access to its own scope, the scope of the outer function, and the global scope

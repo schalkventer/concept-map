@@ -1,0 +1,1 @@
+3. [[JSX Expressions]]: You can embed JavaScript expressions in JSX by wrapping them in curly braces

@@ -1,0 +1,1 @@
+7. [[Inheritance]] - JavaScript classes support inheritance through the `extends` keyword. A class can inherit from another class, gaining access to its methods and properties

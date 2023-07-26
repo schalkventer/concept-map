@@ -1,0 +1,1 @@
+UI Testing: Techniques to test the user interface of your React applications, often with tools like Jest, React Testing Library, Cypress, etc

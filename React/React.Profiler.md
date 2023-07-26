@@ -1,0 +1,1 @@
+2. [[React.Profiler]]: A component available in the Profiler API that measures how often a React application renders and what the "cost" of rendering is

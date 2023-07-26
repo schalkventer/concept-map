@@ -1,0 +1,1 @@
+13. [[Immutable State]]: A principle in which you do not directly modify (or mutate) the state, but instead return a new copy of state with the changes

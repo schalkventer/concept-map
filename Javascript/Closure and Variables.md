@@ -1,0 +1,1 @@
+12. [[Closure and Variables]] - A closure is a function that has access to its own variables, variables of the outer function, and global variables

@@ -1,0 +1,1 @@
+13. [[Authentication]] - In SPAs, authentication can be a challenge because of the single-page nature. JSON Web Tokens (JWT) or OAuth can be used to handle authentication

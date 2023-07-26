@@ -1,0 +1,1 @@
+18. [[Class Expressions]] - Similar to function expressions, class expressions allow you to define an unnamed (anonymous) class for use in an expression

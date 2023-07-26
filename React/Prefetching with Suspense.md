@@ -1,0 +1,1 @@
+18. [[Prefetching with Suspense]]: A pattern where you start loading the data for the next screen as soon as the link is visible in the viewport, and then use Suspense to show a loading state while the rest is loading.

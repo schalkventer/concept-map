@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "8e82913c18a38f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f33684265773b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68e9ef9069e70d02",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fed378f427a6a932",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d034c5eeebfba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e07d6348ed97339",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81dd51bfccb2eeb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb683d7534c8b738",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2438e457cf4ecc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "078e41912e21ab50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87dc43e15ef38bd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c7e3999685b8ce5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "695c12834a948aec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fb0d7507c760970",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8e07d6348ed97339",
+  "lastOpenFiles": [
+    "Javascript/Closures in Callbacks and Promises.md",
+    "Javascript/README.md",
+    "Javascript/Closures and Immediately Invoked Function Expressions (IIFEs).md",
+    "Javascript/Closures and Memory Leaks in JavaScript.md",
+    "Javascript/Closures in Asynchronous JavaScript.md",
+    "Javascript/Closure Applications in Functional Programming.md",
+    "Javascript/Closure Uses in JavaScript Design Patterns.md",
+    "Javascript/Closures and Currying in JavaScript.md",
+    "Javascript/Closure Lifetime.md",
+    "Javascript/Closure and Variables.md",
+    "Javascript/Closure.md",
+    "Javascript/Client-side Routing.md",
+    "Javascript/Classes.md",
+    "Javascript/Class Expressions.md",
+    "Javascript/Class Methods.md",
+    "Javascript/Class Definition in JavaScript.md",
+    "Javascript/Character Classes.md",
+    "Javascript/Case Insensitivity.md",
+    "Javascript/Capturing Groups.md",
+    "Javascript/Callback Queue.md",
+    "Javascript/Callback Hell.md",
+    "Javascript/Callback Function.md",
+    "Javascript/Callback Context.md",
+    "Javascript/Block-Scoped Variables.md",
+    "Javascript/Backward Compatibility.md",
+    "Javascript/Backreferences.md",
+    "Try/Catch",
+    "Try",
+    "Async",
+    "Javascript",
+    "React"
+  ]
+}

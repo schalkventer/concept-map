@@ -1,0 +1,1 @@
+75. [[Synchronous vs Asynchronous]] - Understanding the difference between synchronous (blocking) and asynchronous (non-blocking) code

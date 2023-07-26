@@ -1,0 +1,1 @@
+5. [[Context value]]: The data or functions that are passed through a context's provider and are available to the context's consumers. 

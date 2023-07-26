@@ -1,0 +1,1 @@
+1. [[Method Definition in JavaScript]] - In JavaScript, a method is a function associated with an object, or, put differently, a function property of an object

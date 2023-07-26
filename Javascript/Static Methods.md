@@ -1,0 +1,1 @@
+10. [[Static Methods]] - Static methods are class-level methods, they are not callable on instances of the class, instead, they're called on the class itself

@@ -1,0 +1,1 @@
+17. [[Computed Props]]: Props that are calculated based on other props or state

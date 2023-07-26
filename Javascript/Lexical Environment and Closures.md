@@ -1,0 +1,1 @@
+3. [[Lexical Environment and Closures]] - A closure is created by default when functions are created at lexical time. It carries the local environment along with it.

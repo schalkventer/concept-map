@@ -1,0 +1,1 @@
+Controlled Components: Components where React is in control of the form values, usually using the component's state.

@@ -1,0 +1,1 @@
+19. [[Global state]]: One common use of context is to create a global state for an application, where any component can access and modify any part of the state

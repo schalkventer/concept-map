@@ -1,0 +1,1 @@
+17. [[Methods in JavaScript]] - Methods are functions that are stored as object properties

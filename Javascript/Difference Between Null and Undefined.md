@@ -1,0 +1,1 @@
+2. [[Difference Between Null and Undefined]] - Null and undefined both represent absence of value, but null is used when a variable should explicitly have no value, while undefined means a variable has been declared but not assigned a value

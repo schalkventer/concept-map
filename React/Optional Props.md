@@ -1,0 +1,1 @@
+12. [[Optional Props]]: While defining PropTypes, some props can be marked as optional if the component has sensible default values or can handle missing data

@@ -1,0 +1,1 @@
+4. [[Typeof null]] - Interestingly, the "typeof null" in JavaScript returns "object", which is a bug in JavaScript and it has never been fixed due to backward-compatibility issues

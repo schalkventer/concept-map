@@ -1,0 +1,1 @@
+. [[Polymorphism]] - Polymorphism is a concept where we can use methods of a class in its subclasses

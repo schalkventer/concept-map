@@ -1,0 +1,1 @@
+Mixins: They were a way to create reusable chunks of code in class components, before hooks were introduced. React discouraged the use of mixins with the introduction of hooks. 

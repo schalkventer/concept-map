@@ -1,0 +1,1 @@
+. [[Class Component State]]: In class components, state is a property of the component and can be initialized in the constructor

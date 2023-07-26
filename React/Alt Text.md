@@ -1,0 +1,1 @@
+Alt Text: Alt text should be provided for all non-decorative images. This text can be read by screen readers to describe the image.

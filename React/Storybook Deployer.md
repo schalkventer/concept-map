@@ -1,0 +1,1 @@
+. [[Storybook Deployer]]: An addon to help deploy your Storybook as a static web application

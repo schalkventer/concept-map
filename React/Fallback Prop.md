@@ -1,0 +1,1 @@
+2. [[Fallback Prop]]: A prop that accepts the React elements you want to render as a loading state while waiting for some operation to finish

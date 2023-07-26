@@ -1,0 +1,1 @@
+19. [[Default Values in Destructuring Assignments]] - When using destructuring, you can provide a default value if the property or element doesn't exist

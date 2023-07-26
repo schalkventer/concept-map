@@ -1,0 +1,1 @@
+10. [[Critical CSS]]: CSS-in-JS libraries can figure out exactly which styles are used on a page and only include those, reducing the amount of CSS that needs to be loaded

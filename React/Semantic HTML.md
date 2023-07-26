@@ -1,0 +1,1 @@
+Semantic HTML: Writing code with HTML elements that accurately represent the content and functionality they encapsulate. Semantic HTML is crucial for accessibility as it provides meaning to the code which is used by screen readers and other assistive technologies

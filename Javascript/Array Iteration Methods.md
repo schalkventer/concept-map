@@ -1,0 +1,1 @@
+4. [[Array Iteration Methods]] - JavaScript provides methods to iterate over arrays, like `forEach()`, `map()`, `filter()`, `reduce()`, and more

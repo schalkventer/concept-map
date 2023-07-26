@@ -1,0 +1,1 @@
+Immutable Data: A data value that, once created, cannot be changed

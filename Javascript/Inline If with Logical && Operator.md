@@ -1,0 +1,1 @@
+2. [[Inline If with Logical && Operator]]: React allows you to embed expressions in JSX by wrapping them in curly braces, which can be used to create elements and components conditionally

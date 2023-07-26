@@ -1,0 +1,1 @@
+12. [[Component State vs. Global State]]: Component state is confined to that component, whereas global state is accessible by all parts of the application

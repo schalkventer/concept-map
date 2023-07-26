@@ -1,0 +1,1 @@
+18. [[Lookahead and Lookbehind]] - Lookahead (`?=` for positive lookahead and `?!` for negative lookahead) and lookbehind (`?<=` for positive lookbehind and `?<!` for negative lookbehind) are used to assert that some pattern does or does not follow or precede the current position in the match

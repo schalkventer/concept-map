@@ -1,0 +1,1 @@
+6. [[Array Sorting]] - JavaScript arrays can be sorted with the `sort()` method, and a compare function can be provided to customize the sorting logic

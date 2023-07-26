@@ -1,0 +1,1 @@
+React Table: It's a headless utility aimed to solve the problem of rendering large and complex datasets. It's used to build fast, flexible, and simple data tables in React.

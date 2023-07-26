@@ -1,0 +1,1 @@
+scriminated Unions]]: A pattern for working with union types that makes it easier to correctly type functions that take union-typed parameters

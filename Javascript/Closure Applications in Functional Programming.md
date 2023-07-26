@@ -1,0 +1,1 @@
+12. [[Closure Applications in Functional Programming]] - In functional programming, closures are used to store state and create factory and decorator functions

@@ -1,0 +1,1 @@
+Lifting State Up: Often, several components need to reflect the same changing data. This is achieved in React by moving the shared state up to their closest common ancestor

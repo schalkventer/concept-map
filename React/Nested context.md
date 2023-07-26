@@ -1,0 +1,1 @@
+. [[Nested context]]: Contexts can be nested in order to share multiple values, or to override values deeper in the tree

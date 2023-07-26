@@ -1,0 +1,1 @@
+13. [[Object Constructors]] - An object constructor is a function used with the `new` keyword to create new objects. The constructor's name usually starts with a capital letter to distinguish it from other functions

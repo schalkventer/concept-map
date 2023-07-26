@@ -1,0 +1,1 @@
+10. [[construct trap]] - The construct trap intercepts constructor calls. It's a method that serves to call a target constructor

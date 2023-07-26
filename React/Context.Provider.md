@@ -1,0 +1,1 @@
+Context.Provider: React components that allow consuming components to subscribe to context changes. 

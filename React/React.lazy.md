@@ -1,0 +1,1 @@
+. React.lazy: A function that lets you render a dynamic import as a regular component. It makes it easy to do code-splitting

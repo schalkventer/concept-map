@@ -1,0 +1,1 @@
+React.StrictMode: A wrapper component that checks for potential problems in the application during the development build.

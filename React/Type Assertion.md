@@ -1,0 +1,1 @@
+8. [[Type Assertion]]: A way to tell the TypeScript compiler to treat a value as a different type, for example when you know the type of a value more specifically than TypeScript can infer

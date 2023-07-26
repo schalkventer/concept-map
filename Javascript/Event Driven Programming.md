@@ -1,0 +1,1 @@
+. [[Event Driven Programming]] - A programming paradigm in which the flow of program execution is determined by events

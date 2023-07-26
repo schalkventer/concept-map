@@ -1,0 +1,1 @@
+[[Event Handlers]]: Functions that are called in response to user actions like clicks, key presses, etc.

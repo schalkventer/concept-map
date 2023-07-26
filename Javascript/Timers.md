@@ -1,0 +1,1 @@
+9. [[Timers]] - Methods like setTimeout(), setInterval(), and their counterparts clearTimeout() and clearInterval() belong to the window object and are used to execute code after a specified period of time

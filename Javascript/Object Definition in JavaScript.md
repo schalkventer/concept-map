@@ -1,0 +1,1 @@
+1. [[Object Definition in JavaScript]] - An object is a standalone entity with properties and types in JavaScript. It's an unordered collection of related data in the form of key:value pairs.

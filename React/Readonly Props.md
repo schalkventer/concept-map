@@ -1,0 +1,1 @@
+11. [[Readonly Props]]: Props are readonly in React components. This means a component cannot modify its own props

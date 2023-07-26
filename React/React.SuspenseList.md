@@ -1,0 +1,1 @@
+React.SuspenseList: A component that helps coordinate many components that can suspend by orchestrating the order in which these components are revealed to the user.

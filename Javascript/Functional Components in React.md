@@ -1,0 +1,1 @@
+65. [[Functional Components in React]] - The simplest types of components in React, they are plain JavaScript functions that return JSX or null

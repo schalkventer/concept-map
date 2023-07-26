@@ -1,0 +1,1 @@
+12. [[Type Declaration Files]]: Files with a .d.ts extension that provide type information for JavaScript libraries that do not have built-in TypeScript support.

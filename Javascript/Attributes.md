@@ -1,0 +1,1 @@
+. [[Attributes]] - Attributes provide additional information about HTML elements and come in pairs like name="value". In the DOM, they can be accessed and manipulated

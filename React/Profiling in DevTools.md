@@ -1,0 +1,1 @@
+10. [[Profiling in DevTools]]: React DevTools provide a visualization of profiling data collected from the Profiler API

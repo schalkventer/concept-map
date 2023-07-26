@@ -1,0 +1,1 @@
+React Developer Tools: An extension available for different browsers and as a standalone app, providing tools to inspect a React application

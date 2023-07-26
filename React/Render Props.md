@@ -1,0 +1,1 @@
+Render Props: A technique for sharing code between components by passing a render function as a prop

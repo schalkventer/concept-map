@@ -1,0 +1,1 @@
+19. [[Higher-Order Components (HOCs) and Props]]: HOCs are functions that take a component and return a new component with additional props

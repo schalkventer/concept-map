@@ -1,0 +1,1 @@
+8. [[Stage 4: Finished]] - The proposal is ready for inclusion in the standard. It has been tested in a variety of implementations and has comprehensive test suites

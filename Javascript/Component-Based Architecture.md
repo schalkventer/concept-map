@@ -1,0 +1,1 @@
+11. [[Component-Based Architecture]] - Modern SPAs are often built using a component-based architecture, where the UI is divided into reusable components

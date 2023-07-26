@@ -1,0 +1,1 @@
+78. [[Cookies]] - Text files with small pieces of data that are used to identify your computer as you use a computer network

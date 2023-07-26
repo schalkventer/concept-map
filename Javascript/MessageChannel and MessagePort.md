@@ -1,0 +1,1 @@
+18. [[MessageChannel and MessagePort]] - These are part of the Web Messaging API and can be used for more complex communication between workers and the main thread

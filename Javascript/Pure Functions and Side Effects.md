@@ -1,0 +1,1 @@
+8. [[Pure Functions and Side Effects]] - A pure function is a function where the return value is only determined by its input and it doesn't cause any side effects

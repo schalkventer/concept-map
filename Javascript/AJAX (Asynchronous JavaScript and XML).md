@@ -1,0 +1,1 @@
+47. [[AJAX (Asynchronous JavaScript and XML)]] - A set of web technologies used to send and retrieve data from a server asynchronously

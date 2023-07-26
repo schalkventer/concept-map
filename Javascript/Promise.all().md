@@ -1,0 +1,1 @@
+8. [[Promise.all()]] - The `Promise.all()` method takes an iterable of promises and returns a new Promise that fulfills when all of the passed promises have been fulfilled, or rejects as soon as one of the promises reject.

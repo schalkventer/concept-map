@@ -1,0 +1,1 @@
+anvas]]: The preview area in Storybook where your components (i.e., stories) are rendered

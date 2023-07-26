@@ -1,0 +1,1 @@
+torybook Decorators]]: Provide a way to wrap stories in "decorators" to add additional rendering functionality

@@ -1,0 +1,1 @@
+19. [[Backward Compatibility]] - TC39 makes a commitment to backward compatibility. This means new versions of ECMAScript will not break JavaScript code running on older versions

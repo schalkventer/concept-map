@@ -1,0 +1,1 @@
+5. [[Rendering Null]] If you don't want to render anything, you can return null from the component's render function

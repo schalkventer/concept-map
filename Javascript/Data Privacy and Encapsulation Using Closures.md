@@ -1,0 +1,1 @@
+5. [[Data Privacy and Encapsulation Using Closures]] - Closures help in creating public APIs for functions while keeping some of the variables and methods private

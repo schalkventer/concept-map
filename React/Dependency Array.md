@@ -1,0 +1,1 @@
+10. [[Dependency Array]]: An array of dependencies that a hook relies on. If any dependency changes, the hook will run again

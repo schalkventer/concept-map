@@ -1,0 +1,1 @@
+115. [[Suspense for Data Fetching]] - A new feature in React that lets you use asynchronous data and display a fallback UI while waiting for it to load

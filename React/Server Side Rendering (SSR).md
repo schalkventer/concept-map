@@ -1,0 +1,1 @@
+Server Side Rendering (SSR): The ability of a React application to render on the server rather than in the client's browser.

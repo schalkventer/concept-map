@@ -1,0 +1,1 @@
+1. [[Variable Scope]] - Understanding how variables work within different scopes in JavaScript

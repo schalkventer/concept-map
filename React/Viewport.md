@@ -1,0 +1,1 @@
+. [[Viewport]]: An addon that allows your stories to be displayed in different sizes and layouts in Storybook. This helps build responsive components

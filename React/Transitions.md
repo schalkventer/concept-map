@@ -1,0 +1,1 @@
+15. [[Transitions]]: A feature used with Suspense to prevent the UI from appearing to freeze during a large rendering task, which helps to create smoother user experiences

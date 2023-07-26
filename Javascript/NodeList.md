@@ -1,0 +1,1 @@
+14. [[NodeList]] - This is a collection of nodes, usually returned by properties such as Node.childNodes and methods such as document.querySelectorAll()

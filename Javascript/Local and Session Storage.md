@@ -1,0 +1,1 @@
+. [[Local and Session Storage]] - Web storage objects that store data persistently or per session respectively

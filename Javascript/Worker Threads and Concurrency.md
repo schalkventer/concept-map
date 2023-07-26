@@ -1,0 +1,1 @@
+19. [[Worker Threads and Concurrency]] - JavaScript is single-threaded, but workers can be used to achieve concurrent execution of JavaScript code

@@ -1,0 +1,1 @@
+94. [[Event Delegation]] - A technique in JavaScript where you delegate a parent element as the listener for all of the child elements.

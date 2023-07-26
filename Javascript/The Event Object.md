@@ -1,0 +1,1 @@
+54. [[The Event Object]] - The object passed as a parameter to event handlers in JavaScript, which contains information about the event

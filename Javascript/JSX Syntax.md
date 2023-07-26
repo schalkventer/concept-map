@@ -1,0 +1,1 @@
+1. [[JSX Syntax]]: JSX is a syntax extension for JavaScript that looks like XML or HTML, which is used in React to describe the UI of the component

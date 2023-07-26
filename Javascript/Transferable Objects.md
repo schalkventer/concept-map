@@ -1,0 +1,1 @@
+20. [[Transferable Objects]] - These are objects that can be transferred from one context to another (like from a main thread to a worker, and vice versa) with a zero-copy operation, which vastly improves the performance of sending data to a worker

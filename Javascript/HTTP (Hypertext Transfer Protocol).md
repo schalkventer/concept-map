@@ -1,0 +1,1 @@
+1. [[HTTP (Hypertext Transfer Protocol)]] - HTTP is a protocol used for transmitting hypermedia documents, such as HTML. It's the foundation of any data exchange on the Web

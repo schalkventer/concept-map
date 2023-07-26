@@ -1,0 +1,1 @@
+15. [[window.sessionStorage]] - This property allows web applications to store data for the duration of the page session

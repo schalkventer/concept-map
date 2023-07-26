@@ -1,0 +1,1 @@
+Incremental Static Regeneration (ISR): A feature of Next.js which allows you to update static content after you have built your site, without needing a full rebuild

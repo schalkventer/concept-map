@@ -1,0 +1,1 @@
+ [[ShouldComponentUpdate]]: A lifecycle method that allows us to prevent unnecessary re-rendering of a component by returning a boolean value in response to changes in props and state

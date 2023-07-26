@@ -1,0 +1,1 @@
+10. [[Suspense and Fetching Libraries]]: Libraries like React Query or Relay provide data fetching capabilities that are designed to work with Suspense

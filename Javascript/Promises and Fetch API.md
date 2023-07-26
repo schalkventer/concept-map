@@ -1,0 +1,1 @@
+20. [[Promises and Fetch API]] - The Fetch API returns Promises. It's a modern, promise-based replacement for XMLHttpRequest for making network requests

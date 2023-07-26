@@ -1,0 +1,2 @@
+ 
+5. [[Passing Functions as Props]] Props can be any type of JavaScript variable, including functions. This allows parent components to pass functions to children, which can then communicate back up to the parent

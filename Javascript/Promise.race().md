@@ -1,0 +1,1 @@
+9. [[Promise.race()]] - The `Promise.race()` method takes an iterable of promises and returns a new Promise that fulfills or rejects as soon as one of the promises in the iterable fulfills or rejects, with the value from that promise

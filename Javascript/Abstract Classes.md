@@ -1,0 +1,1 @@
+16. [[Abstract Classes]] - Abstract classes are base classes from which other classes may be derived. They may not be instantiated directly

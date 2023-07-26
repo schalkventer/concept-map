@@ -1,0 +1,1 @@
+ [[Constructor]]: The constructor for a React component is called before it is mounted and is where you initialize state values and bind event handler methods

@@ -1,0 +1,1 @@
+GreenSock (GSAP): A powerful JavaScript library for building high-performance animations, which can be used effectively with React
